@@ -4,3 +4,5 @@
 Voici moi devant le batiment (deuxième personne à partir de la gauche)
 
 ![photo](media/photo_moi_devant.jpg)
+
+L'exposition se trouve à la Fonderie Darling. 
