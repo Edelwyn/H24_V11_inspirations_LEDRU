@@ -1,1 +1,2 @@
-# Jeremy Shaw Phase Shifting Index
+# Phase Shifting Index
+**Artiste : Jeremy Shaw**
