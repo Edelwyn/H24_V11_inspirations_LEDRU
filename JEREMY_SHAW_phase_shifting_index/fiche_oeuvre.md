@@ -1,6 +1,6 @@
 # Phase Shifting Index
 **Artiste : Jeremy Shaw**
-![photo](media/cartel.jpg)
+![photo](media/affiche_expo.jpg)
 
 Voici moi devant le batiment (deuxième personne à partir de la gauche)
 
