@@ -7,7 +7,7 @@ Voici moi devant le batiment (troisième personne à partir de la gauche)
 
 <img src="media/photo_moi_devant.jpg" with="300" height="400"/>
 
-# Introduction
+## Introduction
 
 L'exposition se trouve à la Fonderie Darling. Nous l'avons visité le 2 février 2024 et c'est une exposition
 de type temporaire puisqu'elle était disponible du 12 décembre 2023 jusqu'au 25 février 2024. Elle est immersive puisqu'on
@@ -16,7 +16,7 @@ est invités à être plongé dans une expérience. Elle est aussi interieure pu
 
 <img src="media/phase_univers.jpg" width="650" height="400"/>
 
-# **Description de l'oeuvre**
+## **Description de l'oeuvre**
 
 Jeremy Shaw, étant l'artiste derrière l'oeuvre, a voulu explorer l'effet psychydélique de drogues dans cette 
 expérience. il a figuré des personnes de son entourage qui étaient autrefois des clients qui consommaient de la drogue 
