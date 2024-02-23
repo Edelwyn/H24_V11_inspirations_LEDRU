@@ -45,5 +45,8 @@ ou sur les murs. La pièce est assez expositionelle puiqu'il n'a pas beaucoup d'
 beaucoup d'espace puisqu'on a seulement besoin de supports et de bancs. 
 <br/>
 
-## Composantes Techniques
-
+## Composantes et Techniques
+<br/>
+Les composantes techniques sont des fils qui supporte les toiles où les vidéos sont projetées. Dans l'image ci-dessous, on peut
+voir les fils.
+<img src="
