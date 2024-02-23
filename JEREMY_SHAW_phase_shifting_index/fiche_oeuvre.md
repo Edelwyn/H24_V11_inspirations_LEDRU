@@ -68,7 +68,7 @@ Les toiles pour amorcer l'affichage.  Source: https://flash---art.com/article/je
 Les bancs. <br/>
 <img src="media/mise_espace_banc.jpg" width="200" height="150"/><br/>
 Les haut-parleurs.<br/>
-<img src="media/mise_expo_hauts_parleurs.png" width="200" height="150"/><br/>
+<img src="media/elements_mise_expo_hauts_parleurs.png" width="200" height="150"/><br/>
 Les lumières, comme en haut.<br/>
  <img src="media/compo_tech_lumière.jpg" width="200" height="150"/>
  
