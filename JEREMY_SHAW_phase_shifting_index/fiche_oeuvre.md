@@ -18,4 +18,5 @@ Jeremy Shaw, étant l'artiste derrière l'oeuvre, a voulu explorer l'effet psych
 expérience. Avec 7 écrans présents dans l'exposition, il a figuré des personnes de son entourage. Il a varié les
 espaces temps dans chacune d'elles dans un objectif de nous mélanger et ne pas nous faire voir le temps
 passé. Voici certaines photos des vidéos qui étaient projetés.
-<img src="media/video_danse_dynamique.jpg" width="500" height="400" />              <img src="media/video_danse_robot.jpg" width="500" height="400" />
+
+<img src="media/video_danse_dynamique.jpg" width="500" height="400" />                             <img src="media/video_danse_robot.jpg" width="500" height="400" />
