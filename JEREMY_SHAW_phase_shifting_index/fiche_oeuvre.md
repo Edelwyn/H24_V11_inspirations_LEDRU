@@ -3,7 +3,7 @@
 ![photo](media/affiche_expo.jpg)
 
 
-Voici moi devant le batiment (deuxième personne à partir de la gauche)
+Voici moi devant le batiment (troisième personne à partir de la gauche)
 
 <img src="media/photo_moi_devant.jpg" with="300" height="400"/>
 # Introduction
