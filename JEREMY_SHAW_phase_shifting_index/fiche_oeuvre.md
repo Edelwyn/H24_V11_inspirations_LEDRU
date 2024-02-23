@@ -19,11 +19,9 @@ est invités à être plongé dans une expérience. Elle est aussi interieure pu
 # **Description de l'oeuvre**
 
 Jeremy Shaw, étant l'artiste derrière l'oeuvre, a voulu explorer l'effet psychydélique de drogues dans cette 
-expérience. L'exposition a été exposée pour la première fois en 2020.<br/>
-
-<img src=
-Dans l'installation, il y a 7 écrans présents, il a figuré des personnes de son entourage qui étaient autrefois 
-des clients qui consommaient de la drogue hallucinogène. Il a varié les espaces temps dans chacune d'elles dans 
+expérience. il a figuré des personnes de son entourage qui étaient autrefois des clients qui consommaient de la drogue 
+hallucinogène. L'exposition a été exposée pour la première fois en 2020.<br/>
+Dans l'installation, il y a 7 écrans présents avec les 8 personnes figurantes. Il a varié les espaces temps dans chacune d'elles dans 
 un objectif de nous mélanger et ne pas nous faire voir le temps passé. Voici certaines photos des vidéos qui étaient projetés.
 
 <img src="media/video_danse_dynamique.jpg" width="500" height="400" />                             <img src="media/video_danse_robot.jpg" width="500" height="400" />
