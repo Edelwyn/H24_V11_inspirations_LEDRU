@@ -28,7 +28,7 @@ déformer à travers toutes les vidéos. Ensuite, il y a une dernière phase qui
 de la description). Il y a des lumières violettes qui s'allument et l'atmosphère change complètement. Je la décrirais comme libératrice 
 et calme. 
 <br />
-Dans les vidéos, il y a plusieurs types de danse comme de la danse robotique. Il y a aussi des vidéos en noir et blanc dont une qui 
+Dans les vidéos, il y a plusieurs types de danses comme de la danse robotique. Il y a aussi des vidéos en noir et blanc dont une qui 
 montrait se que je pense être une sorte de méditation en groupe. Il y avait aussi une autre vidéo avec seulement 2 personnes qui 
 dansaient. Voici certaines photos des vidéos qui étaient projetés ci-dessous.<br />
 
