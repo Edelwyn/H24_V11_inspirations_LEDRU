@@ -78,4 +78,11 @@ Les lumières, comme en haut.<br/>
  aurait dit des experiences de personnes différentes dans différentes époques. J'ai mis un peu de temps à réaliser que les danses se 
 synchronisaient. J'ai aimé l'expérience sonore lorsque les écrans clignotaient, j'avais l'impression que le temps s'arrêtait et que
 je me noyais. Par contre, lorsque les vidéos se déformaient, je me sentais confuse et je ne savais pas quoi comprendre de cette partie.
-La phase univers était assez agréable et calme puisqu'il n'avait aucun bruit et les lumière faisaient en sorte que c'était comfortable.
+La phase univers était assez agréable et calme puisqu'il n'avait aucun bruit et les lumières faisaient en sorte que c'était comfortable.
+## Ce que j'ai aimé
+Après reflexion, l'expérience faisait plus de sens et était réussie. Le but, qui était de nous faire ressentir les effets de la drogue,
+peut nous faire passer par multiples émotions comme des émotions refoulées (par exemple: la colère), de l'euphorie, de la confusion et 
+du calme total. Si on adopte cette série à l'expérience, la phase des vidéos individuelles serait avant qu'on prend la drogue. Ensuite,
+après l'avoir pris (qui représente la synchronisation lente et douce), on pourrait ressentir de la confusion mélangée avec des hallucinations
+et des émotions refoulées. Puis, on passerait dans une phase calme et paisible. J'ai aimé l'expérience parce que c'était bien pensé et
+on a réussit à ressentir et comprendre quelque chose alors que les vidéos n'avaient pas de lien au début.
