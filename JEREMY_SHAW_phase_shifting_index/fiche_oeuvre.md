@@ -66,5 +66,5 @@ Un projecteur, comme mentionné plus haut.<br/>
 <img src="media/toile_affichage_videos.png" width="300" height="150"/><br/>
 Les toiles pour amorcer l'affichage.  Source: https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/
 Les bancs.
-<img src="media/mise_espace_banc.png" width="300" height="150"/><br/>
+<img src="media/mise_espace_banc.jpg" width="300" height="150"/><br/>
 
