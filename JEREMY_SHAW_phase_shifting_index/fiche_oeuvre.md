@@ -25,7 +25,5 @@ Dans l'installation, il y a 7 écrans présents avec les 8 personnes figurantes.
 un objectif de nous mélanger et ne pas nous faire voir le temps passé. Voici certaines photos des vidéos qui étaient projetés.
 
 <img src="media/video_danse_dynamique.jpg" width="500" height="400" />                             <img src="media/video_danse_robot.jpg" width="500" height="400" /> <br/>
-
-En voici plus, pour montrer les différentes époques.<br/> 
-
-<img src="media/description_video_danse_80.jpg" width="500" height="400" />  
+<br/> 
+                                                    <img src="media/description_video_danse_80.jpg" width="500" height="400" />  
