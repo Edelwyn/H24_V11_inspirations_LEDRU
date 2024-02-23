@@ -14,6 +14,7 @@ de type temporaire puisqu'elle était disponible du 12 décembre 2023 jusqu'au 2
 est invités à être plongé dans une expérience. Elle est aussi interieure puisqu'on a besoin de support pour les vidéos.
 
 <img src="media/phase_univers.jpg" width="650" height="400"/>
+
  
 # **Description de l'oeuvre**
 
