@@ -22,10 +22,11 @@ Jeremy Shaw, étant l'artiste derrière l'oeuvre, a voulu explorer et faire ress
 drogues dans cette expérience. Il a figuré des personnes de son entourage qui étaient autrefois ses clients qui consommaient 
 de la drogue hallucinogène. Son oeuvre a été exposée pour la première fois en 2020.<br/>
 Dans l'installation, il y a 7 écrans présents avec les 8 personnes figurantes. Il a varié les espaces temps dans chacune d'elles dans 
-un objectif de nous mélanger et ne pas nous faire voir le temps passé. Voici certaines photos des vidéos qui étaient projetés ci-dessous.
+un objectif de nous mélanger et ne pas nous faire voir le temps passé.
 <br />
-Dans les vidéos, il y a plusieurs type de danse comme de la danse robotique. Il y a aussi des vidéos en noir et blanc qui montrait ce 
-que je pense être une sorte de méditation en groupe. Il y avait aussi une autre vidéo avec seulement 2 personnes qui dansaient. 
+Dans les vidéos, il y a plusieurs types de danse comme de la danse robotique. Il y a aussi des vidéos en noir et blanc dont une qui montrait 
+ce que je pense être une sorte de méditation en groupe. Il y avait aussi une autre vidéo avec seulement 2 personnes qui dansaient. 
+Voici certaines photos des vidéos qui étaient projetés ci-dessous.<br />
 
 <img src="media/video_danse_dynamique.jpg" width="500" height="400" />                             <img src="media/video_danse_robot.jpg" width="500" height="400" /> <br/>
 <br/> 
