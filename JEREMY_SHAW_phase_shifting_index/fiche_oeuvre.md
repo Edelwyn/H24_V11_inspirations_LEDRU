@@ -28,4 +28,4 @@ un objectif de nous mélanger et ne pas nous faire voir le temps passé. Voici c
 
 En voici plus, pour montrer les différentes époques.<br/> 
 
-<img src="media/video_danse_80.jpg" width="500" height="400" />  
+<img src="media/description_danse_80.jpg" width="500" height="400" />  
