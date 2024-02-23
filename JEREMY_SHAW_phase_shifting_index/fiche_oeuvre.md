@@ -27,3 +27,5 @@ un objectif de nous mélanger et ne pas nous faire voir le temps passé. Voici c
 <img src="media/video_danse_dynamique.jpg" width="500" height="400" />                             <img src="media/video_danse_robot.jpg" width="500" height="400" /> <br/>
 <br/> 
                                                     <img src="media/description_video_danse_80.jpg" width="500" height="400" />  
+## Mise en espace
+<br/>
