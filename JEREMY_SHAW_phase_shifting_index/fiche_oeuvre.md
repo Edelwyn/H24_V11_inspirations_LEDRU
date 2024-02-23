@@ -43,3 +43,6 @@ Comme on peut le voir dans le plan, il y a les 7 projecteurs qui projettent les 
 personne peut facilement détourner le regard et changer d'atmosphère en fonction de la vidéo. Elles sont suspendues avec des fils
 ou sur les murs. La pièce est assez expositionelle puiqu'il n'a pas beaucoup d'éléments, comme dans un musée.  Elle ne prends pas
 beaucoup d'espace puisqu'on a seulement besoin de supports et de bancs. 
+<br/>
+## Composantes Techniques
+<br/>
