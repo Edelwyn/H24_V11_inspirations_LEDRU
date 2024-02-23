@@ -11,7 +11,7 @@ L'exposition se trouve à la Fonderie Darling. Nous l'avons visité le 2 févrie
 de type temporaire puisqu'elle était disponible du 12 décembre 2023 jusqu'au 25 février 2024 et immersive puisqu'on
 est invités à être plongé dans une expérience. Elle est aussi interieure puisqu'on a besoin de support pour les vidéos.
 
-<img src="media/phase_univers.jpg" width="700" height="400"/>
+<img src="media/phase_univers.jpg" width="650" height="400"/>
 
 # **Description de l'oeuvre**
 
