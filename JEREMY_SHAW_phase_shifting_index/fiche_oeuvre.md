@@ -64,11 +64,11 @@ venaient avec.
 <img src="media/compo_projecteur.jpg" width="200" height="150"/><br/>
 Un projecteur, comme mentionné plus haut.<br/>
 <img src="media/toile_affichage_videos.png" width="300" height="150"/><br/>
-Les toiles pour amorcer l'affichage.  Source: https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/
+Les toiles pour amorcer l'affichage.  Source: https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/<br/>
 Les bancs. <br/>
 <img src="media/mise_espace_banc.jpg" width="200" height="150"/><br/>
-Les haut-parleurs.
-(image)
-Les lumières, comme en haut.
+Les haut-parleurs.<br/>
+<img src="media/mise_expo_hauts_parleurs.png" width="200" height="150"/><br/>
+Les lumières, comme en haut.<br/>
  <img src="media/compo_tech_lumière.jpg" width="200" height="150"/>
  
