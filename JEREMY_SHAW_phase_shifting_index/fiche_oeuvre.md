@@ -24,8 +24,8 @@ de la drogue hallucinogène. Son oeuvre a été exposée pour la première fois 
 Dans l'installation, il y a 7 écrans présents avec les 8 personnes figurantes. Il a varié les espaces temps dans chacune d'elles dans 
 un objectif de nous mélanger et ne pas nous faire voir le temps passé. Dans cette phase, on est plongé dans le noir. À un certain
 moment et lentement, toutes les danses se sychronisent et au bout d'un moment, tout semble s'arrêter et se déformer à travers toute 
-les vidéos. Ensuite, il y a une dernière phase qui est coloré et ressemble à l'univers. Il y a des lumières violettes qui 
-s'allument et l'atmosphère change complètement. Je la décrirais comme libératrice et calme. 
+les vidéos. Ensuite, il y a une dernière phase qui est coloré et ressemble à l'univers.(voir image un peu en haut) Il y a des lumières 
+violettes qui s'allument et l'atmosphère change complètement. Je la décrirais comme libératrice et calme. 
 <br />
 Dans les vidéos, il y a plusieurs types de danse comme de la danse robotique. Il y a aussi des vidéos en noir et blanc dont une qui 
 montrait ce que je pense être une sorte de méditation en groupe. Il y avait aussi une autre vidéo avec seulement 2 personnes qui 
@@ -41,4 +41,5 @@ dansaient. Voici certaines photos des vidéos qui étaient projetés ci-dessous.
 <br/>
 Comme on peut le voir dans le plan, il y a les 7 projecteurs qui projettent les viédos. Elles sont disposées de façon que la
 personne peut facilement détourner le regard et changer d'atmosphère en fonction de la vidéo. Elles sont suspendues avec des fils
-ou sur les murs. La pièce est assez expositionelle puiqu'il n'a pas beaucoup d'éléments, comme dans un musée. 
+ou sur les murs. La pièce est assez expositionelle puiqu'il n'a pas beaucoup d'éléments, comme dans un musée.  Elle ne prends pas
+beaucoup d'espace puisqu'on a seulement besoin de supports et de bancs. 
