@@ -90,7 +90,7 @@ et des émotions refoulées. Puis, on passerait dans une phase calme et paisible
 on a réussit à ressentir et comprendre quelque chose alors que les vidéos n'avaient pas de lien au début.
 ## Aspect à améliorer
 Se que je ferais differemment, c'est de moins repétés les vidéos au début puisque ce n'est pas tout le monde qui a la patience d'essayer
-de comprendre toutes les vidéos. Ces personnes ont un temps d'attention assez court donc peut-être moins repéter les vidéos puisque même
-moi je pensais que c'était comme ça tout le long à un moment. 
+de comprendre toutes les vidéos. Ces personnes ont un temps d'attention assez court donc peut-être moins repéter les vidéos serait moins 
+ennuyant pour eux puisque même moi je pensais que c'était comme ça tout le long à un moment. 
 ### Réfèrences 
 Pour la photo des toiles : https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/<br/> 
