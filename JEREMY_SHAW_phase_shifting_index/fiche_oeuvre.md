@@ -54,4 +54,4 @@ voir les fils et juste à droite, les lumières lors de la phase univers.
 
 Elles sont aussi les projecteurs qui permet l'affichage des vidéos.
 <br/>
-(mettre la photo ici)
+<img src="media/compo_projecteur.jpg" width="200" height="150"/>
