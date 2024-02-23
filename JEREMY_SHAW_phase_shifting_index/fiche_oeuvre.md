@@ -62,7 +62,7 @@ venaient avec.
 ### Éléments nécessaires pour la mise en exposition 
 
 <img src="media/compo_projecteur.jpg" width="200" height="150"/><br/>
-Un projecteur, comme mentionné plus haut.
-les toiles pour amorcer l'affichage. 
+Un projecteur, comme mentionné plus haut.<br/>
+Les toiles pour amorcer l'affichage. 
 
 
