@@ -45,4 +45,4 @@ ou sur les murs. La pièce est assez expositionelle puiqu'il n'a pas beaucoup d'
 beaucoup d'espace puisqu'on a seulement besoin de supports et de bancs. 
 <br/>
 ## Composantes Techniques
-<br/>
+
