@@ -23,9 +23,10 @@ drogues dans cette expérience. Il a figuré des personnes de son entourage qui 
 de la drogue hallucinogène. Son oeuvre a été exposée pour la première fois en 2020.<br/>
 Dans l'installation, il y a 7 écrans présents avec les 8 personnes figurantes. Il a varié les espaces temps dans chacune d'elles dans 
 un objectif de nous mélanger et ne pas nous faire voir le temps passé. Dans cette phase, on est plongé dans le noir. À un certain
-moment et lentement, toutes les danses se sychronisent, les écrans clignotent et au bout d'un moment, tout semble s'arrêter et se déformer 
-à travers toutes les vidéos. Ensuite, il y a une dernière phase qui est coloré et ressemble à l'univers(voir image en haut de la description). 
-Il y a des lumières violettes qui s'allument et l'atmosphère change complètement. Je la décrirais comme libératrice et calme. 
+moment et lentement, toutes les danses se sychronisent, les écrans clignotent et au bout d'un moment, tout semble s'arrêter et se 
+déformer à travers toutes les vidéos. Ensuite, il y a une dernière phase qui est coloré et ressemble à l'univers (voir image en haut 
+de la description). Il y a des lumières violettes qui s'allument et l'atmosphère change complètement. Je la décrirais comme libératrice 
+et calme. 
 <br />
 Dans les vidéos, il y a plusieurs types de danse comme de la danse robotique. Il y a aussi des vidéos en noir et blanc dont une qui 
 montrait se que je pense être une sorte de méditation en groupe. Il y avait aussi une autre vidéo avec seulement 2 personnes qui 
@@ -64,7 +65,7 @@ venaient avec.
 <img src="media/compo_projecteur.jpg" width="200" height="150"/><br/>
 Un projecteur, comme mentionné plus haut.<br/>
 <img src="media/toile_affichage_videos.png" width="300" height="150"/><br/>
-Les toiles pour amorcer l'affichage.  Source: https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/<br/>
+Les toiles pour amorcer l'affichage. 
 Les bancs. <br/>
 
 <img src="media/mise_espace_banc.jpg" width="200" height="150"/><br/>
@@ -86,3 +87,9 @@ du calme total. Si on adopte cette série à l'expérience, la phase des vidéos
 après l'avoir pris (qui représente la synchronisation lente et douce), on pourrait ressentir de la confusion mélangée avec des hallucinations
 et des émotions refoulées. Puis, on passerait dans une phase calme et paisible. J'ai aimé l'expérience parce que c'était bien pensé et
 on a réussit à ressentir et comprendre quelque chose alors que les vidéos n'avaient pas de lien au début.
+## Aspect à améliorer
+Se que je ferais differemment, c'est de moins repétés les vidéos au début puisque ce n'est pas tout le monde qui a la patience d'essayer
+de comprendre toutes les vidéos. Ces personnes ont un temps d'attention assez faible donc peut être moins repétés es vidéos puisque même
+moi je pensaient que c'était comme ça tout le long à un moment. 
+### Réfèrences 
+Pour la photo des toiles : https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/<br/> 
