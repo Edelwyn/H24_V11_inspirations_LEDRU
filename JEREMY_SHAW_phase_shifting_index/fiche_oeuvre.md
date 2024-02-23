@@ -34,3 +34,4 @@ Voici certaines photos des vidéos qui étaient projetés ci-dessous.<br />
 
 ## Mise en espace
 <br/>
+<img src="media/mise_espace_plan.jpg" width="450" height="300"/>
