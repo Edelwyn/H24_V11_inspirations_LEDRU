@@ -15,7 +15,8 @@ pour les vidéos.
 # **Description de l'oeuvre**
 
 Jeremy Shaw, étant l'artiste derrière l'oeuvre, a voulu explorer l'effet psychydélique de drogues dans cette 
-expérience. Avec 7 écrans présents dans l'exposition, il a figuré des personnes de son entourage. Il a varié les
+expérience. L'exposition a été exposée pour la première fois en 2020.
+Dans l'installation, il y a 7 écrans présents, il a figuré des personnes de son entourage. Il a varié les 
 espaces temps dans chacune d'elles dans un objectif de nous mélanger et ne pas nous faire voir le temps
 passé. Voici certaines photos des vidéos qui étaient projetés.
 
