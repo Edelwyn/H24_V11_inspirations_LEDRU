@@ -12,7 +12,7 @@ de type temporaire puisu'elle était disponible du 12 décembre 2023 jusqu'au 25
 est invités à être plongé dans une expérience. Elle est aussi interieure puisqu'on a besoin de support 
 pour les vidéos.
 
-**Description de l'oeuvre**
+# **Description de l'oeuvre**
 
 Jeremy Shaw, étant l'artiste derrière l'oeuvre, a voulu explorer l'effet psychydélique de drogues dans cette 
 expérience. Avec 7 écrans présents dans l'exposition, il a figuré des personnes de son entourage. Il a varié les
