@@ -6,6 +6,7 @@
 Voici moi devant le batiment (troisième personne à partir de la gauche)
 
 <img src="media/photo_moi_devant.jpg" with="300" height="400"/>
+
 # Introduction
 
 L'exposition se trouve à la Fonderie Darling. Nous l'avons visité le 2 février 2024 et c'est une exposition
