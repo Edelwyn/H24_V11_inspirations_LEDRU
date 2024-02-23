@@ -24,7 +24,7 @@ de la drogue hallucinogène. Son oeuvre a été exposée pour la première fois 
 Dans l'installation, il y a 7 écrans présents avec les 8 personnes figurantes. Il a varié les espaces temps dans chacune d'elles dans 
 un objectif de nous mélanger et ne pas nous faire voir le temps passé. Dans cette phase, on est plongé dans le noir. À un certain
 moment et lentement, toutes les danses se sychronisent, les écrans clignotent et au bout d'un moment, tout semble s'arrêter et se 
-déformer à travers toutes les vidéos. Ensuite, il y a une dernière phase qui est coloré et ressemble à l'univers (voir image en haut 
+déformer à travers toutes les vidéos. Ensuite, il y a une dernière phase qui est colorée et ressemble à l'univers (voir image en haut 
 de la description). Il y a des lumières violettes qui s'allument et l'atmosphère change complètement. Je la décrirais comme libératrice 
 et calme. 
 <br />
@@ -90,7 +90,7 @@ et des émotions refoulées. Puis, on passerait dans une phase calme et paisible
 on a réussit à ressentir et comprendre quelque chose alors que les vidéos n'avaient pas de lien au début.
 ## Aspect à améliorer
 Se que je ferais differemment, c'est de moins repétés les vidéos au début puisque ce n'est pas tout le monde qui a la patience d'essayer
-de comprendre toutes les vidéos. Ces personnes ont un temps d'attention assez court donc peut être moins repéter les vidéos puisque même
+de comprendre toutes les vidéos. Ces personnes ont un temps d'attention assez court donc peut-être moins repéter les vidéos puisque même
 moi je pensais que c'était comme ça tout le long à un moment. 
 ### Réfèrences 
 Pour la photo des toiles : https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/<br/> 
