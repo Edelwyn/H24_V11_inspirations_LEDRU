@@ -23,12 +23,12 @@ drogues dans cette expérience. Il a figuré des personnes de son entourage qui 
 de la drogue hallucinogène. Son oeuvre a été exposée pour la première fois en 2020.<br/>
 Dans l'installation, il y a 7 écrans présents avec les 8 personnes figurantes. Il a varié les espaces temps dans chacune d'elles dans 
 un objectif de nous mélanger et ne pas nous faire voir le temps passé. Dans cette phase, on est plongé dans le noir. À un certain
-moment et lentement, toutes les danses se sychronisent et au bout d'un moment, tout semble s'arrêter et se déformer à travers toute 
+moment et lentement, toutes les danses se sychronisent et au bout d'un moment, tout semble s'arrêter et se déformer à travers toutes 
 les vidéos. Ensuite, il y a une dernière phase qui est coloré et ressemble à l'univers(voir image en haut de la description). Il y a 
 des lumières violettes qui s'allument et l'atmosphère change complètement. Je la décrirais comme libératrice et calme. 
 <br />
 Dans les vidéos, il y a plusieurs types de danse comme de la danse robotique. Il y a aussi des vidéos en noir et blanc dont une qui 
-montrait ce que je pense être une sorte de méditation en groupe. Il y avait aussi une autre vidéo avec seulement 2 personnes qui 
+montrait se que je pense être une sorte de méditation en groupe. Il y avait aussi une autre vidéo avec seulement 2 personnes qui 
 dansaient. Voici certaines photos des vidéos qui étaient projetés ci-dessous.<br />
 
 <img src="media/video_danse_dynamique.jpg" width="500" height="400" />                             <img src="media/video_danse_robot.jpg" width="500" height="400" /> <br/>
@@ -54,4 +54,15 @@ voir les fils et juste à droite, les lumières lors de la phase univers.
 
 Elles sont aussi les projecteurs qui permet l'affichage des vidéos.
 <br/>
-<img src="media/compo_projecteur.jpg" width="200" height="150"/>
+<img src="media/compo_projecteur.jpg" width="200" height="150"/><br/>
+
+### Techniques
+Les techniques utilisées pour déplacer l'oeuvre sont une clé USB pour transporter les vidéos et un camions pour les bancs s'ils 
+venaient avec.
+### Éléments nécessaires pour la mise en exposition 
+
+<img src="media/compo_projecteur.jpg" width="200" height="150"/><br/>
+Un projecteur, comme mentionné plus haut.
+les toiles pour amorcer l'affichage. 
+
+
