@@ -49,4 +49,4 @@ beaucoup d'espace puisqu'on a seulement besoin de supports et de bancs.
 <br/>
 Les composantes techniques sont des fils qui supporte les toiles où les vidéos sont projetées. Dans l'image ci-dessous, on peut
 voir les fils.
-<img src="
+<img src="compo_tech_support.jpg" width="200" height="150"/> 
