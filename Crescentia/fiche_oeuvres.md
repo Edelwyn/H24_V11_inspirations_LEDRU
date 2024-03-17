@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=2uqujLtmH3o </br>
 La mise en espace est  constituée d'une projection qui se projette sur trois murs avec la toile au centre.
 Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le côté gauche de la toile, par
 exemple. </br>
-<img src="media/
+<img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
