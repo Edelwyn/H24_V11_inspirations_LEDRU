@@ -18,7 +18,12 @@ apparaîssent si on appuie à gauche, à droite ou au millieu de la toile. Voici
 Les photos ont été prises lorsque j'appuyais à gauche, à droite et au millieu de la toile.
 ### Fonction 
 Pour la mise en contexte, je trouve que le début de la vidéo sur le site web de Crescentia l'explique bien. </br>
-https://www.youtube.com/watch?v=2uqujLtmH3o
+https://www.youtube.com/watch?v=2uqujLtmH3o </br>
+### Mise en espace 
+La mise en espace est  constituée d'une projection qui se projette sur trois murs avec la toile au centre.
+Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le côté gauche de la toile, par
+exemple. </br>
+<img src="media/
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
