@@ -13,7 +13,7 @@ L'interaction de l'oeuvre se fait face à une toile qu'on appui pour faire appar
 comme un cerveau, si on veut. Si on appui rapidement, un souvenir flou apparaît, mais si on appuie longtemps
 et qu'on utilise toute notre main, on voit le souvenir devenir plus clair. Il y a différents souvenirs qui
 apparaîssent si on appuie à gauche, à droite ou au millieu de la toile. Voici à quoi ça ressemble. </br>
-<img src="media/description_rhizomatique.png" width="250" height="150"/>
+<img src="media/description_rhizomatique_video.png" width="250" height="150"/>
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
