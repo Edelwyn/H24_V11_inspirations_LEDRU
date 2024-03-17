@@ -15,7 +15,7 @@ et qu'on utilise toute notre main, on voit le souvenir devenir plus clair. Il y 
 apparaîssent si on appuie à gauche, à droite ou au millieu de la toile. Voici à quoi ça ressemble. </br>
 </br>
 <img src="media/description_rhizomatique_video.jpg" width="250" height="400"/>  <img src="media/description_rhizomatique_video2.jpg" width="250" height="400"/> <img src="media/description_rhizomatique_video3.jpg" width="250" height="400"/> <br/>
-<img src="media/
+<img src="media/mise_expo_toile_rhizomatique.jpg" width="250" height="150"/>
 Les photos ont été prises lorsque j'appuyais à gauche, à droite et au millieu de la toile.
 ### Fonction 
 Pour la mise en contexte, je trouve que le début de la vidéo sur le site web de Crescentia l'explique bien. </br>
