@@ -1,6 +1,6 @@
 ## Présentation des projets finissants
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
-[!photo](media/
+![photo](media/
 ### Rhizomatique (2024)
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
 </br>
