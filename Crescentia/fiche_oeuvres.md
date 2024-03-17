@@ -2,7 +2,7 @@
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
 [!photo](media/
 ### Rhizomatique (2024)
-**réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
+**Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
 Rhizomatique est une oeuvre multiédia immersive et interactive qui relie l'humain et le temps. C'est en
 lien avec le mot crescentia qui signifie "croissance", car quand on grandi, les souvenirs s'effacent et
 d'autres se font. C'est aussi une oeuvre de type intérieure. 
