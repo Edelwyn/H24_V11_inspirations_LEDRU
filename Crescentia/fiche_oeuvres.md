@@ -1,7 +1,8 @@
 ## Présentation des projets finissants
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
 ### Rhizomatique (2024)
-![photo](media/affiche_expo_rhizomatique.png)
+![photo](media/affiche_expo_rhizomatique.png) </br>
+Photo venant du site web de Crescentia.
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
 </br>
 Rhizomatique est une oeuvre multiédia immersive et interactive qui relie l'humain et le temps. C'est en
@@ -12,3 +13,6 @@ L'interaction de l'oeuvre se fait face à une toile qu'on appui pour faire appar
 comme un cerveau, si on veut. Si on appui rapidement, un souvenir flou apparaît, mais si on appuie longtemps
 et qu'on utilise toute notre main, on voit le souvenir devenir plus clair. Il y a différents souvenirs qui
 apparaîssent si on appuie à gauche, à droite ou au millieu de la toile. Voici à quoi ça ressemble.
+#### Références
+photos pour les affiches des oeuvres: </br>
+https://tim-montmorency.com/2024/
