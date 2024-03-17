@@ -1,7 +1,7 @@
 ## Présentation des projets finissants
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
-![photo](media/affiche_expo_rhizomatique.png)
 ### Rhizomatique (2024)
+![photo](media/affiche_expo_rhizomatique.png)
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
 </br>
 Rhizomatique est une oeuvre multiédia immersive et interactive qui relie l'humain et le temps. C'est en
