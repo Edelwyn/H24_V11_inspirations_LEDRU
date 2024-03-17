@@ -21,9 +21,10 @@ Les photos ont été prises lorsque j'appuyais à gauche, à droite et au millie
 Pour la mise en contexte, je trouve que le début de la vidéo sur le site web de Crescentia l'explique bien. </br>
 https://www.youtube.com/watch?v=2uqujLtmH3o </br>
 ### Mise en espace 
-La mise en espace est  constituée d'une projection qui se projette sur trois murs avec la toile au centre.
+La mise en espace est constituée d'une projection qui se projette sur trois murs avec la toile au centre.
 Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le côté gauche de la toile, par
-exemple. </br>
+exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et sur les coins du mur en arrière
+de la toile. </br>
 <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/>
 #### Références
 photos pour les affiches des oeuvres: </br>
