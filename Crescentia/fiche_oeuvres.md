@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=2uqujLtmH3o </br>
 La mise en espace est constituée d'une projection qui se projette sur trois murs avec la toile au centre.
 Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le côté gauche de la toile, par
 exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et sur les coins du mur en arrière
-de la toile. </br>
+de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des deux côtés. </br>
 <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/>
 #### Références
 photos pour les affiches des oeuvres: </br>
