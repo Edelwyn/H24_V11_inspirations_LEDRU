@@ -14,7 +14,8 @@ comme un cerveau, si on veut. Si on appui rapidement, un souvenir flou apparaît
 et qu'on utilise toute notre main, on voit le souvenir devenir plus clair. Il y a différents souvenirs qui
 apparaîssent si on appuie à gauche, à droite ou au millieu de la toile. Voici à quoi ça ressemble. </br>
 </br>
-<img src="media/description_rhizomatique_video.jpg" width="250" height="400"/>  <img src="media/description_rhizomatique_video2.jpg" width="250" height="400"/> <img src="media/description_rhizomatique_video3.jpg" width="250" height="400"/>
+<img src="media/description_rhizomatique_video.jpg" width="250" height="400"/>  <img src="media/description_rhizomatique_video2.jpg" width="250" height="400"/> <img src="media/description_rhizomatique_video3.jpg" width="250" height="400"/> <br/>
+Les photos ont été prises lorsque j'appuyais à gauche, à droite et au millieu de la toile.
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
