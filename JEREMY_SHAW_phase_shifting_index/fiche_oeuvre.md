@@ -94,3 +94,4 @@ de comprendre toutes les vidéos. Ces personnes ont un temps d'attention assez c
 ennuyant pour eux puisque même moi je pensais que c'était comme ça tout le long à un moment. 
 ### Réfèrences 
 Pour la photo des toiles : https://flash---art.com/article/jeremy-shaw-phase-shifting-index-centre-pompidou-paris/<br/> 
+Sinon, toutes les autres photos viennent de moi.
