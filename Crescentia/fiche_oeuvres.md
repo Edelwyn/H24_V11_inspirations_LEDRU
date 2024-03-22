@@ -2,7 +2,7 @@
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
 ## Rhizomatique (2024)
 ![photo](media/affiche_expo_rhizomatique.png) </br>
-Photo venant du site web de Crescentia. </br>
+Photo venant du site web de Montmorency. </br>
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
 </br>
 Rhizomatique est une oeuvre multiédia immersive et interactive qui relie l'humain et le temps. C'est en
@@ -59,7 +59,9 @@ dans mes projets.
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
 ## Effet-papillon (2024)
-![photo](media/affiche_expo_effet_papillon.png)
+![photo](media/affiche_expo_effet_papillon.png) <br>
+Photo provenant du site web de Montmorency.
+**Réalisé par 
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
