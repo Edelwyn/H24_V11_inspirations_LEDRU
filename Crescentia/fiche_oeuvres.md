@@ -1,6 +1,6 @@
 # Présentation des projets finissants
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
-## Rhizomatique (2024)
+# Rhizomatique (2024)
 ![photo](media/affiche_expo_rhizomatique.png) </br>
 Photo venant du site web de Montmorency. </br>
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
@@ -19,17 +19,17 @@ apparaîssent si on appuie à gauche, à droite ou au millieu de la toile. Voici
 <img src="media/description_rhizomatique_video.jpg" width="250" height="400"/>  <img src="media/description_rhizomatique_video2.jpg" width="250" height="400"/> <img src="media/description_rhizomatique_video3.jpg" width="250" height="400"/> <br/>
 <img src="media/mise_expo_toile_rhizomatique.jpg" width="250" height="200"/></br>
 Les photos ont été prises lorsque j'appuyais à gauche, à droite et au millieu de la toile.
-### Fonction 
+## Fonction 
 Pour la mise en contexte, je trouve que le début de la vidéo sur le site web de Crescentia l'explique bien. </br>
 https://www.youtube.com/watch?v=2uqujLtmH3o </br>
-### Mise en espace 
+## Mise en espace 
 La mise en espace est constituée d'une projection qui se projette sur trois murs avec la toile au centre.
 Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le côté gauche de la toile, par
 exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et sur les côtés, près des 
 de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des deux côtés. </br>
 <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/><br>
 Photos venant de la vidéo du projet.
-### Composantes et techniques 
+## Composantes et techniques 
 **Matériaux utilisés**
 > Kinects </br>
 > Cyclomoteur </br>
@@ -41,28 +41,37 @@ chaleur de la main sur la toile avec la caméra infrarouge et l'autre pour le mo
 ainsi projectés sur l'un des trois murs, dépendamment ou l'utilisateur appuie. </br>
 Pour déplacer l'oeuvre, il faudra que le cyclomoteur, les hauts parleurs et la kinect soit dans une boîte 
 avec les cables.
-### Mise en exposition
+## Mise en exposition
 > Projecteurs </br>
 > Haut-parleurs </br>
 > Powercom </br>
 > Ordinateur portable </br>
 > Lumière LED </br>
-### Expérience vécue 
+## Expérience vécue 
 Je trouve que le tout est assez immersif. C'est quelque chose d'intime de voir littéralement les souvenirs
 d'une personne et cela apporte une perspective différente sur, peut-être, la vie en général et comment
 elle peut être vécue. le fait qu'on soit dans le noir nous aide à réellement nous transporter dans l'oeuvre.
-### Ce qui m'a plu, donné des idées
+## Ce qui m'a plu, donné des idées
 L'autre perspective que l'experience propose sur la vie. On peut en apprendre beaucoup si on réfléchis sur
 le sujet.
 Ce qui m'a inspiré, c'est vraiment l'effet que ça m'a donné. J'aimerais que d'autres personnes le ressent
 dans mes projets.
-### Ce que je ferais différemment
+## Ce que je ferais différemment
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
-## Effet-papillon (2024)
+# Effet-papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
 Photo provenant du site web de Montmorency. <br>
 **Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zurahvlev, Jasmine Lapierre**
+> **Type d'installation : interactive et contemplative**
+>
+L'oeuvre est , concrètement, basé sur la croissance d'un arbre. Au fond, Son nom est effet papillon car
+de petites actions peuvent amener à avoir un effet beaucoup plus grand que ce qu'on pensait.
+### Interaction
+L'interaction se fait avec de différentes façons. L'utilisateur va devoir commencer par appuyer un bouton 
+(action de planter une graine), pour ensuite tiré une genre de manivelle (pousse du tronc), pour continuer 
+avec un abreuvoir d'eau (la pluie).
+
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
