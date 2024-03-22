@@ -33,6 +33,7 @@ de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des
 > Hauts-parleurs </br>
 > Cyclomoteur </br>
 > Construction en bois avec toile </br>
+>
 La composante inconnue dans les projets est la kinect. C'est une technologie qui interagit avec la voix et
 le mouvement. Dans ce cas-ci, la kinect est utilisée pour détecter la chaleur de la main sur la toile avec la
 caméra infrarouge. Les souvenirs sont ainsi projectés sur l'un des trois murs, dépendamment ou l'utilisateur
