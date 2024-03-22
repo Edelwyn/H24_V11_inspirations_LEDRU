@@ -1,4 +1,4 @@
-# Présentation des projets finissants
+# Présentation de mon projet préfèré des 3e années.
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
 # Rhizomatique (2024)
 ![photo](media/affiche_expo_rhizomatique.png) </br>
@@ -58,7 +58,7 @@ Ce qui m'a inspiré, c'est vraiment l'effet que ça m'a donné. J'aimerais que d
 dans mes projets.
 ## Ce que je ferais différemment
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
-vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
+vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes. 
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
