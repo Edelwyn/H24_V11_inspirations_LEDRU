@@ -4,7 +4,6 @@ J'ai visité les projets 2 fois, le 27 février et 12 mars.
 ![photo](media/affiche_expo_rhizomatique.png) </br>
 Photo venant du site web de Montmorency. </br>
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
-</br>
 #### Lien avec Crescentia
 Rhizomatique est une oeuvre multiédia immersive et interactive qui relie l'humain et le temps. C'est en
 lien avec le mot crescentia qui signifie "croissance", car quand on grandi, les souvenirs s'effacent et
@@ -28,7 +27,8 @@ La mise en espace est constituée d'une projection qui se projette sur trois mur
 Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le côté gauche de la toile, par
 exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et sur les côtés, près des 
 de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des deux côtés. </br>
-<img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/>
+<img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/><br>
+Photos venant du site web de Montmorency.
 ### Composantes et techniques 
 **Matériaux utilisés**
 > Kinects </br>
@@ -39,8 +39,8 @@ La composante que je ne connais pas et qui est présent dans les projets est la 
 qui interagit avec la voix et le mouvement. Dans ce cas-ci, deux kinects sont utilisées pour détecter la 
 chaleur de la main sur la toile avec la caméra infrarouge et l'autre pour le mouvement. Les souvenirs sont 
 ainsi projectés sur l'un des trois murs, dépendamment ou l'utilisateur appuie. </br>
-Pour déplacer l'oeuvre, il faudra que les projecteurs, le cyclomoteur, les hauts parleurs et la kinect soit
-dans une boîte avec les cables.
+Pour déplacer l'oeuvre, il faudra que le cyclomoteur, les hauts parleurs et la kinect soit dans une boîte 
+avec les cables.
 ### Mise en exposition
 > Projecteurs </br>
 > Haut-parleurs </br>
@@ -62,7 +62,7 @@ vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
 ## Effet-papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
 Photo provenant du site web de Montmorency. <br>
-**Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia(ryan) Papanikolaou, Viktor Zurahvlev, Jasmine Lapierre**
+**Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zurahvlev, Jasmine Lapierre**
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
