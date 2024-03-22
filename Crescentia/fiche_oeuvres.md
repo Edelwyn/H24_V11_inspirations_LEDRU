@@ -28,7 +28,7 @@ Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le c�
 exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et sur les côtés, près des 
 de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des deux côtés. </br>
 <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/><br>
-Photos venant du site web de Montmorency.
+Photos venant de la vidéo du projet.
 ### Composantes et techniques 
 **Matériaux utilisés**
 > Kinects </br>
