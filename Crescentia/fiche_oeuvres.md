@@ -23,9 +23,16 @@ https://www.youtube.com/watch?v=2uqujLtmH3o </br>
 ### Mise en espace 
 La mise en espace est constituée d'une projection qui se projette sur trois murs avec la toile au centre.
 Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le côté gauche de la toile, par
-exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et sur les coins du mur en arrière
+exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et sur les côtés, près des 
 de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des deux côtés. </br>
 <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/>
+### Composantes et techniques 
+La composante inconnue dans les projets est la kinect. C'est une technologie qui interagit avec la voix et
+le mouvement. Dans ce cas-ci, la kinect est utilisée pour détecter la chaleur de la main sur la toile avec la
+caméra infrarouge. Les souvenirs sont ainsi projectés sur l'un des trois murs, dépendamment ou l'utilisateur
+appuie. </br>
+Pour déplacer l'oeuvre, il faudra que les projecteurs, le cyclomoteur, les hauts parleurs et la kinect soit
+dans une boîte avec les cables.
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
