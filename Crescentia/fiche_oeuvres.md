@@ -28,18 +28,22 @@ de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des
 <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/>
 ### Composantes et techniques 
 **Matériaux utilisés**
-> Kinect </br>
-> Projecteurs </br>
-> Hauts-parleurs </br>
+> Kinects </br>
 > Cyclomoteur </br>
 > Construction en bois avec toile </br>
 >
 La composante que je ne connais pas dans les projets est la kinect. C'est une technologie qui interagit 
-avec la voix etle mouvement. Dans ce cas-ci, la kinect est utilisée pour détecter la chaleur de la main 
-sur la toile avec lacaméra infrarouge. Les souvenirs sont ainsi projectés sur l'un des trois murs, 
-dépendamment ou l'utilisateur appuie. </br>
+avec la voix et le mouvement. Dans ce cas-ci, deux kinects sont utilisées pour détecter la chaleur de la main 
+sur la toile avec la caméra infrarouge et l'autre pour le mouvement. Les souvenirs sont ainsi projectés 
+sur l'un des trois murs, dépendamment ou l'utilisateur appuie. </br>
 Pour déplacer l'oeuvre, il faudra que les projecteurs, le cyclomoteur, les hauts parleurs et la kinect soit
 dans une boîte avec les cables.
+### Mise en exposition
+> Projecteurs </br>
+> Haut-parleurs </br>
+> Powercom </br>
+> Ordinateur portable </br>
+> Lumière LED </br>
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
