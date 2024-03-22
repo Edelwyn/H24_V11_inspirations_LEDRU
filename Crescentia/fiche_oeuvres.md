@@ -44,6 +44,11 @@ dans une boîte avec les cables.
 > Powercom </br>
 > Ordinateur portable </br>
 > Lumière LED </br>
+### Expérience vécue 
+Je trouve que le tout est assez immersif. C'est quelque chose d'intime de voir littéralement les souvenirs
+d'une personne et cela apporte une perspective différente sur, peut-être, la vie en général et comment
+elle peut être vécue. le fait qu'on soit dans le noir nous aide à réellement nous transporter dans l'oeuvre.
+
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
