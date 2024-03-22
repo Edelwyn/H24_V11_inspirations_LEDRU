@@ -1,1 +1,1 @@
-# Voici ma banque d'inpsiration lors de ma visite individuelle.
+# Voici ma banque d'inspiration lors de ma visite individuelle.
