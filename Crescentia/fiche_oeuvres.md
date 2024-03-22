@@ -5,6 +5,7 @@ J'ai visité les projets 2 fois, le 27 février et 12 mars.
 Photo venant du site web de Montmorency. </br>
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
 </br>
+#### Lien avec Crescentia
 Rhizomatique est une oeuvre multiédia immersive et interactive qui relie l'humain et le temps. C'est en
 lien avec le mot crescentia qui signifie "croissance", car quand on grandi, les souvenirs s'effacent et
 d'autres se font. 
