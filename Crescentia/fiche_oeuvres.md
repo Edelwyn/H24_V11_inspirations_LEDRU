@@ -7,7 +7,9 @@ Photo venant du site web de Crescentia. </br>
 </br>
 Rhizomatique est une oeuvre multiédia immersive et interactive qui relie l'humain et le temps. C'est en
 lien avec le mot crescentia qui signifie "croissance", car quand on grandi, les souvenirs s'effacent et
-d'autres se font. C'est aussi une oeuvre de type intérieure. 
+d'autres se font. 
+> **Type d'installation : Interactive et immersive
+> 
 ### Interaction 
 L'interaction de l'oeuvre se fait face à une toile qu'on appuie pour faire apparaître des souvenirs. C'est
 comme un cerveau, si on veut. Si on appui rapidement, un souvenir flou apparaît, mais si on appuie longtemps
@@ -56,6 +58,8 @@ dans mes projets.
 ### Ce que je ferais différemment
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
+## Effet-papillon (2024)
+![photo](media/
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
