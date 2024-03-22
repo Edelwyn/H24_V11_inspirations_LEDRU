@@ -27,7 +27,7 @@ exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et s
 de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des deux côtés. </br>
 <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/>
 ### Composantes et techniques 
-** Matériaux utilisés **
+**Matériaux utilisés**
 > Kinect
 La composante inconnue dans les projets est la kinect. C'est une technologie qui interagit avec la voix et
 le mouvement. Dans ce cas-ci, la kinect est utilisée pour détecter la chaleur de la main sur la toile avec la
