@@ -59,7 +59,7 @@ dans mes projets.
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
 ## Effet-papillon (2024)
-![photo](media/
+![photo](media/affiche_expo_effet_papillon.png)
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
