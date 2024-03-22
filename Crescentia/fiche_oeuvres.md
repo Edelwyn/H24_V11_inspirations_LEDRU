@@ -61,7 +61,7 @@ vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
 ## Effet-papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
 Photo provenant du site web de Montmorency.
-**Réalisé par 
+**Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia(ryan) Papanikolaou, Viktor Zurahvlev, Jasmine Lapierre**
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
