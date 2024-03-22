@@ -59,19 +59,6 @@ dans mes projets.
 ## Ce que je ferais différemment
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
-# Effet-papillon (2024)
-![photo](media/affiche_expo_effet_papillon.png) <br>
-Photo provenant du site web de Montmorency. <br>
-**Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zurahvlev, Jasmine Lapierre**
-> **Type d'installation : interactive et contemplative**
->
-L'oeuvre est , concrètement, basé sur la croissance d'un arbre. Au fond, Son nom est effet papillon car
-de petites actions peuvent amener à avoir un effet beaucoup plus grand que ce qu'on pensait.
-### Interaction
-L'interaction se fait avec de différentes façons. L'utilisateur va devoir commencer par appuyer un bouton 
-(action de planter une graine), pour ensuite tiré une genre de manivelle (pousse du tronc), pour continuer 
-avec un abreuvoir d'eau (la pluie).
-
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
