@@ -28,12 +28,11 @@ de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des
 <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/>
 ### Composantes et techniques 
 **Matériaux utilisés**
-> Kinect
-> Projecteurs
-> Hauts-parleurs
-> Cyclomoteur
-> Construction en bois avec toile
-> 
+> Kinect </br>
+> Projecteurs </br>
+> Hauts-parleurs </br>
+> Cyclomoteur </br>
+> Construction en bois avec toile </br>
 La composante inconnue dans les projets est la kinect. C'est une technologie qui interagit avec la voix et
 le mouvement. Dans ce cas-ci, la kinect est utilisée pour détecter la chaleur de la main sur la toile avec la
 caméra infrarouge. Les souvenirs sont ainsi projectés sur l'un des trois murs, dépendamment ou l'utilisateur
