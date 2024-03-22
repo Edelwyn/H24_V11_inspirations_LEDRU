@@ -1,6 +1,6 @@
-## Présentation des projets finissants
+# Présentation des projets finissants
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
-### Rhizomatique (2024)
+## Rhizomatique (2024)
 ![photo](media/affiche_expo_rhizomatique.png) </br>
 Photo venant du site web de Crescentia. </br>
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
