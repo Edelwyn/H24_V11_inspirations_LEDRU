@@ -74,6 +74,7 @@ Lorsque l'utilisateur progresse, de plus en plus de sons peuvent se faire entend
 des LED lights au plafond et à terre, dans des tubes de caoutchou. À chaque action, il y a une interaction
 avec celles-ci. <br>
 Voici une vue d'ensemble. <br>
+<br>
 <img src=media/vue_ensemble_effet_papillon_.jpg width="350" height="200">
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
