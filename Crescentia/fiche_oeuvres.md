@@ -48,11 +48,11 @@ avec les cables.
 > Ordinateur portable </br>
 > Lumière LED </br>
 ## Expérience vécue 
-Je trouve que le tout est assez immersif. C'est quelque chose d'intime de voir littéralement les souvenirs
-d'une personne et cela apporte une perspective différente sur, peut-être, la vie en général et comment
-elle peut être vécue. le fait qu'on soit dans le noir nous aide à réellement nous transporter dans l'oeuvre.
+Je trouve que le tout est assez immersif. C'est quelque chose d'intime de découvrir les souvenirs d'une 
+personne et cela apporte une perspective différente sur, peut-être, la vie en général et comment elle 
+peut être vécue. Le fait qu'on soit dans le noir nous aide à réellement nous transporter dans l'oeuvre.
 ## Ce qui m'a plu, donné des idées
-L'autre perspective que l'experience propose sur la vie. On peut en apprendre beaucoup si on réfléchis sur
+L'autre perspective que l'experience propose sur la vie. On peut en apprendre beaucoup si on réfléchi sur
 le sujet.
 Ce qui m'a inspiré, c'est vraiment l'effet que ça m'a donné. J'aimerais que d'autres personnes le ressent
 dans mes projets.
@@ -61,7 +61,12 @@ Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personn
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes. 
 # Présentation des autres projets
 ## Effet Papillon
-![photo](media/affiche_expo_effet_papillon.png)
+![photo](media/affiche_expo_effet_papillon.png) <br>
+photo venant du site de montmorency. 
+Effet-papillon est un projet qui consiste à faire des actions qui semblent insignifiantes mais elles ont de 
+plus grandes conséquences de se qu'on pensait au départ. L'interaction est basée sur des actions avec un bouton,
+
+
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
