@@ -60,13 +60,23 @@ dans mes projets.
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes. 
 # Présentation des autres projets
-## Effet Papillon
+## Effet Papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
-photo venant du site de montmorency. 
+Photo venant du site de montmorency. 
 Effet-papillon est un projet qui consiste à faire des actions qui semblent insignifiantes mais elles ont de 
-plus grandes conséquences de se qu'on pensait au départ. L'interaction est basée sur des actions avec un bouton,
-
-
+plus grandes conséquences de se qu'on pensait au départ. L'interaction est basée sur des actions pour ainsi
+faire pousser un pommier. Les actions sont, en ordre, planter la graine, pousser le tronc, manifester la
+pluie, faire pousser les feuilles et ansi récolter la pomme à la fin. La personne dans l'expérience doit 
+faire ces actions avec une variété de technologies (bouton, valve, interrupteurs de lumière, corde). Le tout
+a été fait sur MadMapper (projections sur les écrans et des lumières LED). Le côté visuel est plus concret avec
+un pole et des magic arms pour représenter les branches. On voit le tronc et les feuilles sur les écrans.
+Lorsque l'utilisateur progresse, de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura
+des LED lights au plafond et à terre, dans des tubes de caoutchou. À chaque action, il y a une interaction
+avec celles-ci. <br>
+Voici une vue d'ensemble. <br>
+<img src=media/
+#### Lien avec crescentia
+Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
 #### Références
 photos pour les affiches des oeuvres: </br>
 https://tim-montmorency.com/2024/
