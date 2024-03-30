@@ -63,6 +63,8 @@ vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
 ## Effet Papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
 Photo venant du site de montmorency. 
+**Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et
+Jasmine Lapierre**
 Effet-papillon est un projet qui consiste à faire des actions qui semblent insignifiantes mais elles ont de 
 plus grandes conséquences de se qu'on pensait au départ. L'interaction est basée sur des actions pour ainsi
 faire pousser un pommier. Les actions sont, en ordre, planter la graine, pousser le tronc, manifester la
@@ -75,7 +77,7 @@ des LED lights au plafond et à terre, dans des tubes de caoutchou. À chaque ac
 avec celles-ci. <br>
 Voici une vue d'ensemble. <br>
 <br>
-<img src=media/vue_ensemble_effet_papillon_.jpg width="350" height="200">
+<img src=media/vue_ensemble_effet_papillon_.jpg width="350" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200">
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
 #### Références
