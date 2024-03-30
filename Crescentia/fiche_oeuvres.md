@@ -2,7 +2,7 @@
 J'ai visité les projets 2 fois, le 27 février et 12 mars. 
 # Rhizomatique (2024)
 ![photo](media/affiche_expo_rhizomatique.png) </br>
-Photo venant du site web de Montmorency. </br>
+Photos provenantes de la page d'exposition de Crescentia.  </br>
 **Réalisé par Jolyanne Desjardins, Maïka Devy, Laurie Houde et Felix Testa Radovanovic** </br>
 #### Lien avec Crescentia
 Rhizomatique est une oeuvre multiédia immersive et interactive qui relie l'humain et le temps. C'est en
@@ -62,8 +62,7 @@ vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
 # Présentation des autres projets
 ## Effet Papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
-Photo venant du site de montmorency. <br>
-<br>
+Photos provenantes de la page d'exposition de Crescentia.  <br>
 **Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et
 Jasmine Lapierre** <br>
 <br>
@@ -77,11 +76,12 @@ un pole et des magic arms pour représenter les branches. On voit le tronc et le
 Lorsque l'utilisateur progresse, de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura
 des LED lights au plafond et à terre, dans des tubes de caoutchou. À chaque action, il y a une interaction
 avec celles-ci. <br>
-Voici une vue d'ensemble. <br>
+Voici la vue d'ensemble finale. <br>
 <br>
-<img src=media/vue_ensemble_effet_papillon_.jpg width="350" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200">
+<img src=media/vue_ensemble_effet_papillon_.jpg width="350" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
+Photos provenantes de la page d'exposition de Crescentia. 
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
 #### Références
-photos pour les affiches des oeuvres: </br>
+Photos provenantes de la page d'exposition de Crescentia : </br>
 https://tim-montmorency.com/2024/
