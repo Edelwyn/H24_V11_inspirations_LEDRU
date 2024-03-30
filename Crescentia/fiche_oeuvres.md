@@ -69,13 +69,13 @@ Jasmine Lapierre** <br>
 Effet-papillon est un projet qui consiste à faire des actions qui semblent insignifiantes mais elles ont de 
 plus grandes conséquences de se qu'on pensait au départ. L'interaction est basée sur des actions pour ainsi
 faire pousser un pommier. Les actions sont, en ordre, planter la graine, pousser le tronc, manifester la
-pluie, faire pousser les feuilles et ansi récolter la pomme à la fin. La personne dans l'expérience doit 
+pluie, faire pousser les feuilles et ainsi récolter la pomme à la fin. La personne dans l'expérience doit 
 faire ces actions avec une variété de technologies (bouton, valve, interrupteurs de lumière, corde). Le tout
-a été fait sur MadMapper (projections sur les écrans et des lumières LED). Le côté visuel est plus concret avec
-un pole et des magic arms pour représenter les branches. On voit le tronc et les feuilles sur les écrans.
-Lorsque l'utilisateur progresse, de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura
-des LED lights au plafond et à terre, dans des tubes de caoutchou. À chaque action, il y a une interaction
-avec celles-ci. <br>
+a été fait sur MadMapper (projections sur les écrans et des lumières LED). Pour côté visuel, ils ont mis
+un pole et des magic arms pour représenter les branches. On voit donc le tronc et les feuilles sur les écrans.
+À chaque action, il y a une interaction avec les LED. Lorsque l'utilisateur progresse dans l'interaction, 
+de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des LED lights au plafond pour les 
+feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
 Voici la vue d'ensemble finale. <br>
 <br>
 <img src=media/vue_ensemble_effet_papillon_.jpg width="350" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
