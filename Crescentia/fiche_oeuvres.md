@@ -62,9 +62,9 @@ vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
 # Présentation des autres projets
 ## Effet Papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
-Photo venant du site de montmorency. 
+Photo venant du site de montmorency. <br>
 **Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et
-Jasmine Lapierre**
+Jasmine Lapierre** <br>
 Effet-papillon est un projet qui consiste à faire des actions qui semblent insignifiantes mais elles ont de 
 plus grandes conséquences de se qu'on pensait au départ. L'interaction est basée sur des actions pour ainsi
 faire pousser un pommier. Les actions sont, en ordre, planter la graine, pousser le tronc, manifester la
