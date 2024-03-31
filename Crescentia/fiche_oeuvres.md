@@ -82,7 +82,6 @@ Il y avait cette image tout autour de la salle pour montrer qu'il y aura une vid
 avait aussi les led lights pour les racines qui n'étaient pas encore dans les tubes de caoutchou. Il n'y 
 avait pas encore les technologies pour chacune des actions. <br>
 ### Vue d'ensemble finale
-<br>
 <img src=media/vue_ensemble_effet_papillon_.jpg width="400" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
 Photos provenantes de la page d'exposition de Crescentia. 
 #### Lien avec crescentia
