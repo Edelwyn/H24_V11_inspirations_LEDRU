@@ -82,9 +82,11 @@ Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
 <img src=media/plantation_effet_papillon.png width="600" height="350"> <br>
 Photo provenant du github du projet. <br>
+<br>
 **À quoi ça ressemblait lors de ma première visite** <br>
       <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <img src=media/led_lights_racine_projet3.jpg width="450" height="300"><br>
       Photos prises par moi. <br>
+      <br>
 Il y avait cette image tout autour de la salle pour montrer qu'il y aura une vidéo qui sera projetée. Il y 
 avait aussi les led lights pour les racines qui n'étaient pas encore dans les tubes de caoutchou. Il n'y 
 avait pas encore les technologies pour chacune des actions. <br>
