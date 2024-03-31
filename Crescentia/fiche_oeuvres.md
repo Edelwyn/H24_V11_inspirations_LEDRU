@@ -61,7 +61,7 @@ Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personn
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes. 
 # Présentation des autres projets
 ## Effet Papillon (2024)
-![photo](media/affiche_expo_effet_papillon.png) <br>
+                            ![photo](media/affiche_expo_effet_papillon.png) <br>
 Photos provenantes de la page d'exposition de Crescentia.  <br>
 **Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et
 Jasmine Lapierre** <br>
