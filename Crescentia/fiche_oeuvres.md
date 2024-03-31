@@ -77,7 +77,7 @@ un pole et des magic arms pour représenter les branches. On voit donc le tronc 
 de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des LED lights au plafond pour les 
 feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
 ### Plantation 
-mettre plantation ici
+<img src=media/plantation_effet_papillon.png width="400" height="200">
 **À quoi ça ressemblait lors de ma première visite** <br>
       <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <img src=media/led_lights_racine_projet3.jpg width="450" height="300"><br>
       Photos prises par moi. <br>
