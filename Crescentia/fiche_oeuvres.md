@@ -93,6 +93,10 @@ Photos provenantes de la page d'exposition de Crescentia.
 > Programmation </br>
 > Web 2,3 et 4 </br>
 > Modélisation 3d </br>
+### Ressenti
+Ce que je ressentirais lors de l'expérience, c'est de la curiosité car je verrais un poteau avec des
+écrans et un bouton qui clignote, je ressentirais aussi de l'importance aux actions que je pose car
+le progrès de la croissance de l'arbre dépend de moi.
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
 #### Références
