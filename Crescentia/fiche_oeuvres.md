@@ -57,7 +57,7 @@ dans mes projets.
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes. 
 # Présentation des autres projets
-## Effet Papillon (2024)
+## Effet-papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
 Photos provenantes de la page d'exposition de Crescentia.  <br>
 **Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et
@@ -112,6 +112,32 @@ mais je trouve que le côté visuel aurait été mieux. Ils auraient pu utiliser
 accrocher au plafond pour faire un feuillage, par exemple.
 ## Kigo (2024)
 ![photo](media/affiche_exposition_kigo.png)
+Photos provenante de la page d'exposition de Crescentia. <br>
+**Réalisé par** <br>
+<br>
+Description ici. 
+#### Lien avec crescentia
+Explication ici. 
+### Plantation 
+Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
+Mettre photos ici.
+**À quoi ça ressemblait lors de ma première visite** <br>
+Mettre photos et explications ici
+### Vue d'ensemble finale
+Mettre photos ici. 
+### Cours indispensables pour la réalisation
+> 1 </br>
+> 2 </br>
+> 3 </br>
+### La Kinect
+La composante que je ne connais pas et qui est présent dans les projets est la kinect. C'est une technologie 
+qui interagit avec la voix et le mouvement. </br>
+### Ressenti
+Ressenti ici.
+### Ordre préférence
+> 1-5 <br>
+>
+Explication ici.
 #### Références
 Photos provenantes de la page d'exposition de Crescentia : </br>
 https://tim-montmorency.com/2024/ <br>
