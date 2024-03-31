@@ -61,7 +61,7 @@ Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personn
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes. 
 # Présentation des autres projets
 ## Effet Papillon (2024)
-                        ![photo](media/affiche_expo_effet_papillon.png) <br>
+![photo](media/affiche_expo_effet_papillon.png) <br>
 Photos provenantes de la page d'exposition de Crescentia.  <br>
 **Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et
 Jasmine Lapierre** <br>
@@ -76,6 +76,8 @@ un pole et des magic arms pour représenter les branches. On voit donc le tronc 
 À chaque action, il y a une interaction avec les LED. Lorsque l'utilisateur progresse dans l'interaction, 
 de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des LED lights au plafond pour les 
 feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
+### Plantation 
+mettre plantation ici
 **À quoi ça ressemblait lors de ma première visite** <br>
       <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <img src=media/led_lights_racine_projet3.jpg width="450" height="300"><br>
       Photos prises par moi. <br>
@@ -85,6 +87,10 @@ avait pas encore les technologies pour chacune des actions. <br>
 ### Vue d'ensemble finale
 <img src=media/vue_ensemble_effet_papillon_.jpg width="400" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
 Photos provenantes de la page d'exposition de Crescentia. 
+### Cours indispensables pour la réalisation
+> Programmation
+> Web 2,3 et 4
+> Modélisation 3d
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
 #### Références
