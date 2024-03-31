@@ -77,7 +77,7 @@ un pole et des magic arms pour représenter les branches. On voit donc le tronc 
 de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des LED lights au plafond pour les 
 feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
 Voici à quoi ça ressemblait lors de ma première visite. <br>
-<img src=media/compo_tech_pluie.jpg width="300" height="400"><img src=media/atmosphere_ecran_projet3.jpg width="350" height="400">  <br>
+<img src=media/compo_tech_pluie.jpg width="300" height="400"><img src=media/ecran_atmosphere_projet3.jpg width="350" height="400">  <br>
 Voici la vue d'ensemble finale. <br>
 <br>
 <img src=media/vue_ensemble_effet_papillon_.jpg width="350" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
