@@ -88,9 +88,9 @@ avait pas encore les technologies pour chacune des actions. <br>
 <img src=media/vue_ensemble_effet_papillon_.jpg width="400" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
 Photos provenantes de la page d'exposition de Crescentia. 
 ### Cours indispensables pour la réalisation
-> Programmation
-> Web 2,3 et 4
-> Modélisation 3d
+> Programmation </br>
+> Web 2,3 et 4 </br>
+> Modélisation 3d </br>
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
 #### Références
