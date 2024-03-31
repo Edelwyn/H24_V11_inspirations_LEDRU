@@ -27,7 +27,7 @@ La mise en espace est constituée d'une projection qui se projette sur trois mur
 Les souvenirs peuvent se projetter sur le mur gauche si la personne appuie le côté gauche de la toile, par
 exemple. Il y a trois projecteurs pour afficher les souvenirs. Un au centre et sur les côtés, près des 
 de la toile. Pour le son, il y a des haut-parleurs à côté des projecteurs des deux côtés. </br>
-<img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/><br>
+    <img src="media/mise_espace_vue_devant_rhizomatique.png" width="400" height="200"/>  <img src="media/mise_espace_vue_haut_rhizomatique.png" width="400" height="200"/><br>
 Photos venant de la vidéo du projet.
 ## Composantes et techniques 
 **Matériaux utilisés**
@@ -76,12 +76,12 @@ un pole et des magic arms pour représenter les branches. On voit donc le tronc 
 À chaque action, il y a une interaction avec les LED. Lorsque l'utilisateur progresse dans l'interaction, 
 de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des LED lights au plafond pour les 
 feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
-Voici à quoi ça ressemblait lors de ma première visite. <br>
-<img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <img src=media/led_lights_racine_projet3.jpg width="450" height="300"><br>
+**À quoi ça ressemblait lors de ma première visite** <br>
+      <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <img src=media/led_lights_racine_projet3.jpg width="450" height="300"><br>
 Il y avait cette image tout autour de la salle pour montrer qu'il y aura une vidéo qui sera projetée. Il y 
 avait aussi les led lights pour les racines qui n'étaient pas encore dans les tubes de caoutchou. Il n'y 
-avait pas encore les technologies pour chacune des actions. 
-Voici la vue d'ensemble finale. <br>
+avait pas encore les technologies pour chacune des actions. <br>
+### Vue d'ensemble finale
 <br>
 <img src=media/vue_ensemble_effet_papillon_.jpg width="400" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
 Photos provenantes de la page d'exposition de Crescentia. 
