@@ -105,11 +105,11 @@ le progrès de la croissance de l'arbre dépend de moi.
 > 4 <br>
 >
 Sur 5, Effet papillon est en 4e position, car je trouvais que l'idée derrière était intéressante, mais
-je trouve que l'expérience est trop courte, je pense qu'il faudrait rendre le résultat de chaque action
+je trouve que l'expérience est trop courte. Je pense qu'il faudrait rendre le résultat de chaque action
 plus longue pour vraiment représenter l'impact, surtout que le nom est Effet-papilon donc je mettrais
 la lumière sur les conséquences des actions. Le concept est bien pensé et il y a beaucoup d'interaction,
 mais je trouve que le côté visuel aurait été mieux. Ils auraient pu utiliser des banderoles et les
-accrocher au plafond pour faire un feuillage.
+accrocher au plafond pour faire un feuillage, par exemple.
 #### Références
 Photos provenantes de la page d'exposition de Crescentia : </br>
 https://tim-montmorency.com/2024/ <br>
