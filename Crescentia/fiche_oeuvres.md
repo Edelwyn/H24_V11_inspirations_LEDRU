@@ -77,13 +77,13 @@ un pole et des magic arms pour représenter les branches. On voit donc le tronc 
 de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des LED lights au plafond pour les 
 feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
 Voici à quoi ça ressemblait lors de ma première visite. <br>
-<img src=media/led_lights_racine_projet3.jpg width="350" height="400">  <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <br>
+<img src=media/led_lights_racine_projet3.jpg width="450" height="300">  <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <br>
 Il y avait cette image tout autour pour montrer qu'il y aura une vidéo qui sera projetée. Il y avait aussi les
 led lights pour les racines qui n'étaient pas encore dans les tubes de caoutchou. Il n'y avait pas encore les 
 technologies pour chacune des actions. 
 Voici la vue d'ensemble finale. <br>
 <br>
-<img src=media/vue_ensemble_effet_papillon_.jpg width="500" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
+<img src=media/vue_ensemble_effet_papillon_.jpg width="400" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
 Photos provenantes de la page d'exposition de Crescentia. 
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
