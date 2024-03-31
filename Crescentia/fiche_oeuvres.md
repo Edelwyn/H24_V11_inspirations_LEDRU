@@ -110,6 +110,8 @@ plus longue pour vraiment représenter l'impact, surtout que le nom est Effet-pa
 la lumière sur les conséquences des actions. Le concept est bien pensé et il y a beaucoup d'interaction,
 mais je trouve que le côté visuel aurait été mieux. Ils auraient pu utiliser des banderoles et les
 accrocher au plafond pour faire un feuillage, par exemple.
+## Kigo (2024)
+![photo](media/affiche_expo_kigo.jpg)
 #### Références
 Photos provenantes de la page d'exposition de Crescentia : </br>
 https://tim-montmorency.com/2024/ <br>
