@@ -83,7 +83,7 @@ led lights pour les racines qui n'étaient pas encore dans les tubes de caoutcho
 technologies pour chacune des actions. 
 Voici la vue d'ensemble finale. <br>
 <br>
-<img src=media/vue_ensemble_effet_papillon_.jpg width="425" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
+<img src=media/vue_ensemble_effet_papillon_.jpg width="500" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
 Photos provenantes de la page d'exposition de Crescentia. 
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
