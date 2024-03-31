@@ -120,9 +120,9 @@ Description ici.
 Explication ici. 
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
-Mettre photos ici.
+Mettre photos ici. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
-Mettre photos et explications ici
+Mettre photos et explications ici. <br>
 ### Vue d'ensemble finale
 Mettre photos ici. 
 ### Cours indispensables pour la réalisation
