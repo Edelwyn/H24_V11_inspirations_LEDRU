@@ -78,6 +78,7 @@ de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des 
 feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
       <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <img src=media/led_lights_racine_projet3.jpg width="450" height="300"><br>
+      Photos prises par moi. <br>
 Il y avait cette image tout autour de la salle pour montrer qu'il y aura une vidéo qui sera projetée. Il y 
 avait aussi les led lights pour les racines qui n'étaient pas encore dans les tubes de caoutchou. Il n'y 
 avait pas encore les technologies pour chacune des actions. <br>
