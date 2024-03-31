@@ -76,6 +76,8 @@ un pole et des magic arms pour représenter les branches. On voit donc le tronc 
 À chaque action, il y a une interaction avec les LED. Lorsque l'utilisateur progresse dans l'interaction, 
 de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des LED lights au plafond pour les 
 feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
+#### Lien avec crescentia
+Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
 <img src=media/plantation_effet_papillon.png width="600" height="350"> <br>
@@ -97,8 +99,15 @@ Photos provenantes de la page d'exposition de Crescentia.
 Ce que je ressentirais lors de l'expérience, c'est de la curiosité car je verrais un poteau avec des
 écrans et un bouton qui clignote, je ressentirais aussi de l'importance aux actions que je pose car
 le progrès de la croissance de l'arbre dépend de moi.
-#### Lien avec crescentia
-Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
+### Ordre préférence
+> 4 <br>
+>
+Sur 5, Effet papillon est en 4e position, car je trouvais que l'idée derrière était intéressante, mais
+je trouve que l'expérience est trop courte, je pense qu'il faudrait rendre le résultat de chaque action
+plus longue pour vraiment représenter l'impact, surtout que le nom est Effet-papilon donc je mettrais
+la lumière sur les conséquences des actions. Le concept est bien pensé et il y a beaucoup d'interaction,
+mais je trouve que le côté visuel aurait été mieux. Ils auraient pu utiliser des banderoles et les
+accrocher au plafond pour faire un feuillage.
 #### Références
 Photos provenantes de la page d'exposition de Crescentia : </br>
 https://tim-montmorency.com/2024/ <br>
