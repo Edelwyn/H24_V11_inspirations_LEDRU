@@ -78,7 +78,7 @@ de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des 
 feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
-<img src=media/plantation_effet_papillon.png width="600" height="300">
+<img src=media/plantation_effet_papillon.png width="600" height="400"> <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
       <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <img src=media/led_lights_racine_projet3.jpg width="450" height="300"><br>
       Photos prises par moi. <br>
