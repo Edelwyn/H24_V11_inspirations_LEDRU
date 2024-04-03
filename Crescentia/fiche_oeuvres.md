@@ -135,7 +135,7 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 <img src=media/projection_projet_kigo_debut.jpg width="400" height="300"> <br>
 Il y avait seulement une ou deux saisons et le model de la kinect n'était pas détaillé.
 ### Vue d'ensemble finale
-<img src=media/p.jpg width="400" height="300"> <br>
+<img src=media/fonction_projection_kigo.jpg width="400" height="300"> <br>
 ### Cours indispensables pour la réalisation
 > 1 </br>
 > 2 </br>
