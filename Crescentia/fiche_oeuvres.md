@@ -132,7 +132,7 @@ avec le printemps, l'été, etc.
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
 <img src=media/plantation_kigo.png width="800" height="500"> <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
-<img src=media/fonction_dispositif_kigo.jpg width="400" height="200"> et explications ici. <br>
+<img src=media/projection_projet_kigo_debut.jpg width="400" height="200"> et explications ici. <br>
 ### Vue d'ensemble finale
 Mettre photos ici. 
 ### Cours indispensables pour la réalisation
