@@ -130,7 +130,7 @@ petit. Le cycle lui-même peut signifier croissance car l'évolution des saisons
 avec le printemps, l'été, etc.
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
-<img src=media/plantation_kigo.png width="400" height="200"> <br>
+<img src=media/plantation_kigo.png width="600" height="300"> <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
 Mettre photos et explications ici. <br>
 ### Vue d'ensemble finale
