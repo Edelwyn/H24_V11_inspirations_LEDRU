@@ -100,7 +100,7 @@ avait pas encore les technologies pour chacune des actions. <br>
 Photos provenantes de la page d'exposition de Crescentia. 
 ### Cours indispensables pour la réalisation
 > Programmation </br>
-> Web 2,3 et 4 </br>
+> Conception Sonore </br>
 > Modélisation 3d </br>
 ### Ressenti
 Ce que je ressentirais lors de l'expérience, c'est de la curiosité car je verrais un poteau avec des
@@ -134,11 +134,11 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 Photo provenant de la page de l'exposition de Crescentia.
 **À quoi ça ressemblait lors de ma première visite** <br>
 <img src=media/projection_projet_kigo_debut.jpg width="400" height="300"> <br>
-Photos venant de moi. <br
+Photos venant de moi. <br>
 Il y avait seulement une ou deux saisons et le model de la kinect n'était pas détaillé.
 ### Vue d'ensemble finale
 <img src=media/fonction_dispositif_projection_kigo.jpg width="400" height="500"> <br>
-Photo provenante du site de la page d'exposition de Crescentia.
+Photo prise par moi. <br>
 Ici, le model de la kinect est détaillé et s'harmonise bien avec le fond. 
 ### Cours indispensables pour la réalisation
 > 1 </br>
