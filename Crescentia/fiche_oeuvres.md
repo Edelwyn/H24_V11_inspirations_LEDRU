@@ -133,9 +133,11 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 <img src=media/plantation_kigo.png width="800" height="500"> <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
 <img src=media/projection_projet_kigo_debut.jpg width="400" height="300"> <br>
+Photos venant de moi.
 Il y avait seulement une ou deux saisons et le model de la kinect n'était pas détaillé.
 ### Vue d'ensemble finale
 <img src=media/fonction_dispositif_projection_kigo.jpg width="400" height="500"> <br>
+Photo provenante du site de la page d'exposition de Crescentia.
 Ici, le model de la kinect est détaillé et s'harmonise bien avec le fond. 
 ### Cours indispensables pour la réalisation
 > 1 </br>
