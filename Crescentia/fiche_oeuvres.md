@@ -56,7 +56,7 @@ dans mes projets.
 ## Ce que je ferais différemment
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
 vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
-### Ordre Préfèrence
+### Ordre Préférence
 > 1
 >
 Rhizomatique est en première position pour sa connection avec des souvenirs d'autres personnes. Cela permet
@@ -111,7 +111,7 @@ le progrès de la croissance de l'arbre dépend de moi.
 >
 Sur 5, Effet papillon est en 4e position, car je trouvais que l'idée derrière était intéressante, mais
 je trouve que l'expérience est trop courte. Je pense qu'il faudrait rendre le résultat de chaque action
-plus longue pour vraiment représenter l'impact, surtout que le nom est Effet-papilon donc je mettrais
+plus longue pour vraiment représenter l'impact, surtout que le nom est Effet-papillon donc je mettrais
 la lumière sur les conséquences des actions. Le concept est bien pensé et il y a beaucoup d'interaction,
 mais je trouve que le côté visuel aurait été mieux. Ils auraient pu utiliser des banderoles et les
 accrocher au plafond pour faire un feuillage, par exemple.
@@ -131,9 +131,10 @@ avec le printemps, l'été, etc.
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
 <img src=media/plantation_kigo.png width="800" height="500"> <br>
+Photo provenant de la page de l'exposition de Crescentia.
 **À quoi ça ressemblait lors de ma première visite** <br>
 <img src=media/projection_projet_kigo_debut.jpg width="400" height="300"> <br>
-Photos venant de moi.
+Photos venant de moi. <br
 Il y avait seulement une ou deux saisons et le model de la kinect n'était pas détaillé.
 ### Vue d'ensemble finale
 <img src=media/fonction_dispositif_projection_kigo.jpg width="400" height="500"> <br>
