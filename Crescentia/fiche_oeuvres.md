@@ -116,7 +116,7 @@ la lumière sur les conséquences des actions. Le concept est bien pensé et il 
 mais je trouve que le côté visuel aurait été mieux. Ils auraient pu utiliser des banderoles et les
 accrocher au plafond pour faire un feuillage, par exemple.
 ## Kigo (2024)
-![photo](media/affiche_exposition_kigo.png)
+![photo](media/affiche_exposition_kigo.png) <br>
 Photos provenante de la page d'exposition de Crescentia. <br>
 **Réalisé par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion** <br>
 <br>
