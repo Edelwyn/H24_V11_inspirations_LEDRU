@@ -55,7 +55,15 @@ Ce qui m'a inspiré, c'est vraiment l'effet que ça m'a donné. J'aimerais que d
 dans mes projets.
 ## Ce que je ferais différemment
 Ce que je ferais différemment, c'est d'ajouter que lorsqu'une deuxième personne appuie sur la toile, deux
-vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes. 
+vidéos apparaîssent ou alors mélangent des souvenirs d'autres personnes.
+### Ordre Préfèrence
+> 1
+>
+Rhizomatique est en première position pour sa connection avec des souvenirs d'autres personnes. Cela permet
+de se souvenir de moments similaires qu'on a vécu et ainsi faire ressentir de la nostalgie et de l'empathie.
+J'aime beaucoup cet aspect humain car nos souvenirs nous rassemblent et nous rappelle l'importance des
+souvenirs de l'enfance. Je trouve qu'utiliser une toile rend l'expérience unique car elle utilise le sens 
+du toucher.
 # Présentation des autres projets
 ## Effet-papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
@@ -94,9 +102,6 @@ Photos provenantes de la page d'exposition de Crescentia.
 > Programmation </br>
 > Web 2,3 et 4 </br>
 > Modélisation 3d </br>
-### La Kinect (Kigo)
-La composante que je ne connais pas et qui est présent dans les projets est la kinect. C'est une technologie 
-qui interagit avec la voix et le mouvement. </br>
 ### Ressenti
 Ce que je ressentirais lors de l'expérience, c'est de la curiosité car je verrais un poteau avec des
 écrans et un bouton qui clignote, je ressentirais aussi de l'importance aux actions que je pose car
@@ -113,11 +118,16 @@ accrocher au plafond pour faire un feuillage, par exemple.
 ## Kigo (2024)
 ![photo](media/affiche_exposition_kigo.png)
 Photos provenante de la page d'exposition de Crescentia. <br>
-**Réalisé par** <br>
+**Réalisé par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion** <br>
 <br>
-Description ici. 
+Le projet ressemble à un jeu comme Subway Surfers, où le joueur doit éviter des obstacles. C'est la même 
+chose avec Kigo, le joueur doit éviter des obstacles qui s'approche de lui et essayer d'avoir le score le 
+plus haut possible. La difficulté augmente au fur et à mesure et il y a différentes saisons pour chaque 
+difficulté. 
 #### Lien avec crescentia
-Explication ici. 
+Le cycle des saisons représente aussi Crescentia, car à chaque fin de cycle, les arbres poussent petit à
+petit. Le cycle lui-même peut signifier croissance car l'évolution des saisons est une forme de croissance
+avec le printemps, l'été, etc.
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
 Mettre photos ici. <br>
