@@ -122,8 +122,8 @@ Photos provenant de la page d'exposition de Crescentia. <br>
 <br>
 Le projet ressemble à un jeu comme Subway Surfers, où le joueur doit éviter des obstacles. C'est la même 
 chose avec Kigo, le joueur doit éviter des obstacles qui s'approche de lui et essayer d'avoir le score le 
-plus haut possible. La difficulté augmente au fur et à mesure et il y a différentes saisons pour chaque 
-difficulté. 
+plus haut possible. La difficulté augmente au fur et à mesure avec la vitesse qui augmente lentement et il 
+y a différentes saisons pour chaque difficulté. 
 #### Lien avec crescentia
 Le cycle des saisons représente aussi Crescentia, car à chaque fin de cycle, les arbres poussent petit à
 petit. Le cycle lui-même peut signifier croissance car l'évolution des saisons est une forme de croissance
@@ -145,7 +145,8 @@ Ici, le model de la kinect est détaillé et s'harmonise bien avec le fond.
 > Modélisation 3d </br>
 > Réalité Mixte </br>
 ## La Kinect
-![photo](media/kinect.jpg)
+![photo](media/kinect.jpg) <br>
+Photo provenant de Google. <br>
 La composante que je ne connais pas et qui est présent dans les projets est la kinect. C'est une technologie 
 qui interagit avec la voix et le mouvement. </br>
 La kinect est utilisée dans l'Xbox 360 avec sa première version et l'Xbox 1 avec la deuxième version. Elle 
@@ -153,9 +154,44 @@ est sortie vers les années 2010.
 La kinect est composée d'une lumière infrarouge qui permet de détecter un humain. Elle possède aussi un
 capteur de mouvement pour détecter quelque chose qui bouge. Elle scanne donc son environnement et peut capter
 une vingtaine de points de mouvments. Elle superpose le squelette crée à partir de ces points de mouvements
-avec la caméra de couleur et ce que la kinect voit est affiché.
+avec la caméra de couleur. Ce que la kinect voit est affiché ensuite.
 ### Ressenti
-Ressenti ici.
+Ce que je ressentirais lorsque je l'essayerais, c'est de la détermination parce que je voudrais avoir le score
+le plus haut possible. Je ressentirais aussi de la compétition car je saurais qu'il y a d'autres personnes qui
+ont un score plus haut que moi. L'adrénaline est aussi ce que je ressentirais car ça va de plus en plus vite.
+### Ordre préférence
+> 3 <br>
+>
+Kigo vient en 3e position avec son divertissement. Quand je voyais des gens l'essayer, j'étais facilement
+captivée par le jeu. Ce mode de jeu peut très bien devenir des compétitions avec des statistiques. Je trouve
+que ça combine le sport et les jeux vidéos et je trouve ça innovatif. Cela permetterait de faire bouger les
+amateurs de jeux vidéos un peu plus. 
+## Nom projet (année réalisation)
+![photo expo] <br>
+Photos provenant de la page d'exposition de Crescentia. <br>
+**Réalisé par nom, nom, nom** <br>
+<br>
+Description
+#### Lien avec crescentia
+ 
+### Plantation 
+Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
+<photo ici> <br>
+Photo provenant de la page de l'exposition de Crescentia. <br>
+**À quoi ça ressemblait lors de ma première visite** <br>
+<photo ici> <br>
+Photos venant de moi. <br>
+description
+### Vue d'ensemble finale
+<Photo ici> <br>
+Photo prise par moi. <br>
+Description
+### Cours indispensables pour la réalisation
+> 1 </br>
+> 2 </br>
+> 3 </br>
+### Ressenti
+Description et justification ici
 ### Ordre préférence
 > 1-5 <br>
 >
