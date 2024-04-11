@@ -72,15 +72,8 @@ Photos provenants de la page d'exposition de Crescentia.  <br>
 Jasmine Lapierre** <br>
 <br>
 Effet-papillon est un projet qui consiste à faire des actions qui semblent insignifiantes mais elles ont de 
-plus grandes conséquences de se qu'on pensait au départ. L'interaction est basée sur des actions pour ainsi
-faire pousser un pommier. Les actions sont, en ordre, planter la graine, pousser le tronc, manifester la
-pluie, faire pousser les feuilles et ainsi récolter la pomme à la fin. La personne dans l'expérience doit 
-faire ces actions avec une variété de technologies (bouton, valve, interrupteurs de lumière, corde). Le tout
-a été fait sur MadMapper (projections sur les écrans et des lumières LED). Pour côté visuel, ils ont mis
-un pole et des magic arms pour représenter les branches. On voit donc le tronc et les feuilles sur les écrans.
-À chaque action, il y a une interaction avec les LED. Lorsque l'utilisateur progresse dans l'interaction, 
-de plus en plus de sons peuvent se faire entendre. Dans la salle, il y aura des LED lights au plafond pour les 
-feuilles et à terre, pour les racines, dans des tubes de caoutchou. <br>
+plus grandes conséquences de se qu'on pensait au départ. L'interaction est basée sur des actions grace à des 
+intermédiaires pour ainsi faire pousser un pommier. <br>
 #### Lien avec crescentia
 Puisque crescentia signifie croissance, le lien ici est la croissance d'un arbre.
 ### Plantation 
@@ -171,9 +164,11 @@ amateurs de jeux vidéos un peu plus.
 Photos provenant de la page d'exposition de Crescentia. <br>
 **Réalisé par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins** <br>
 <br>
-Description
+Sonalux est un projet assez sonore. Il permet à l'utilisateur de faire une harmonie avec quatres mélodies
+différentes. Son visuel aide à nous faire oublier le temps qui passe et nous immerser dans l'expérience.
 #### Lien avec crescentia
- 
+Ses couches de sons qu'on peut alterner entre elles font que le tout peut devenir graduellement chaotique.
+L'évolution de ses sons font qu'elle sont liées au mot ¨crescentia¨, qui signifie croissance.
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
 <photo ici> <br>
