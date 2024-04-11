@@ -67,7 +67,7 @@ du toucher.
 # Présentation des autres projets
 ## Effet-papillon (2024)
 ![photo](media/affiche_expo_effet_papillon.png) <br>
-Photos provenantes de la page d'exposition de Crescentia.  <br>
+Photos provenants de la page d'exposition de Crescentia.  <br>
 **Réalisé par Raphaël Dumont, Alexis Bolduc, William Morel, Alexia (Ryan) Papanikolaou, Viktor Zhuravlev et
 Jasmine Lapierre** <br>
 <br>
@@ -117,7 +117,7 @@ mais je trouve que le côté visuel aurait été mieux. Ils auraient pu utiliser
 accrocher au plafond pour faire un feuillage, par exemple.
 ## Kigo (2024)
 ![photo](media/affiche_exposition_kigo.png) <br>
-Photos provenante de la page d'exposition de Crescentia. <br>
+Photos provenant de la page d'exposition de Crescentia. <br>
 **Réalisé par Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin et Antoine Dion** <br>
 <br>
 Le projet ressemble à un jeu comme Subway Surfers, où le joueur doit éviter des obstacles. C'est la même 
@@ -131,7 +131,7 @@ avec le printemps, l'été, etc.
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
 <img src=media/plantation_kigo.png width="800" height="500"> <br>
-Photo provenant de la page de l'exposition de Crescentia.
+Photo provenant de la page de l'exposition de Crescentia. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
 <img src=media/projection_projet_kigo_debut.jpg width="400" height="300"> <br>
 Photos venant de moi. <br>
@@ -141,12 +141,19 @@ Il y avait seulement une ou deux saisons et le model de la kinect n'était pas d
 Photo prise par moi. <br>
 Ici, le model de la kinect est détaillé et s'harmonise bien avec le fond. 
 ### Cours indispensables pour la réalisation
-> 1 </br>
-> 2 </br>
-> 3 </br>
-### La Kinect
+> Programmation ludique </br>
+> Modélisation 3d </br>
+> Réalité Mixte </br>
+## La Kinect
+![photo](media/
 La composante que je ne connais pas et qui est présent dans les projets est la kinect. C'est une technologie 
 qui interagit avec la voix et le mouvement. </br>
+La kinect est utilisée dans l'Xbox 360 avec sa première version et l'Xbox 1 avec la deuxième version. Elle 
+est sortie vers les années 2010.
+La kinect est composée d'une lumière infrarouge qui permet de détecter un humain. Elle possède aussi un
+capteur de mouvement pour détecter quelque chose qui bouge. Elle scanne donc son environnement et peut capter
+une vingtaine de points de mouvments. Elle superpose le squelette crée à partir de ces points de mouvements
+avec la caméra de couleur et ce que la kinect voit est affiché.
 ### Ressenti
 Ressenti ici.
 ### Ordre préférence
