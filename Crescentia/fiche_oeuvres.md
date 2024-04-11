@@ -145,7 +145,7 @@ Ici, le model de la kinect est détaillé et s'harmonise bien avec le fond.
 > Modélisation 3d </br>
 > Réalité Mixte </br>
 ## La Kinect
-![photo](media/
+![photo](media/kinect.jpg)
 La composante que je ne connais pas et qui est présent dans les projets est la kinect. C'est une technologie 
 qui interagit avec la voix et le mouvement. </br>
 La kinect est utilisée dans l'Xbox 360 avec sa première version et l'Xbox 1 avec la deuxième version. Elle 
