@@ -166,6 +166,41 @@ Kigo vient en 3e position avec son divertissement. Quand je voyais des gens l'es
 captivée par le jeu. Ce mode de jeu peut très bien devenir des compétitions avec des statistiques. Je trouve
 que ça combine le sport et les jeux vidéos et je trouve ça innovatif. Cela permetterait de faire bouger les
 amateurs de jeux vidéos un peu plus. 
+## Sonalux (2024)
+![photo](media/affiche_expo_sonalux.png) <br>
+Photos provenant de la page d'exposition de Crescentia. <br>
+**Réalisé par Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins** <br>
+<br>
+Description
+#### Lien avec crescentia
+ 
+### Plantation 
+Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
+<photo ici> <br>
+Photo provenant de la page de l'exposition de Crescentia. <br>
+**À quoi ça ressemblait lors de ma première visite** <br>
+<photo ici> <br>
+Photos venant de moi. <br>
+description
+### Vue d'ensemble finale
+<Photo ici> <br>
+Photo prise par moi. <br>
+Description
+### Cours indispensables pour la réalisation
+> 1 </br>
+> 2 </br>
+> 3 </br>
+### Ressenti
+Description et justification ici
+### Ordre préférence
+> 1-5 <br>
+>
+Explication ici.
+#### Références
+Photos provenantes de la page d'exposition de Crescentia : </br>
+https://tim-montmorency.com/2024/ <br>
+Github du projet Effet-papillon : <br>
+https://github.com/Iteration6/Effet-Papillon/tree/2b2e73f72208211f2ff77f123d528beb9cf9ef03
 ## Nom projet (année réalisation)
 ![photo expo] <br>
 Photos provenant de la page d'exposition de Crescentia. <br>
