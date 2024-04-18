@@ -93,16 +93,16 @@ avait pas encore les technologies pour chacune des actions. <br>
 Photos provenantes de la page d'exposition de Crescentia. 
 ### Cours indispensables pour la réalisation
 > Programmation </br>
-> Conception Sonore </br>
+> Objets Interactifs </br>
 > Modélisation 3d </br>
 ### Ressenti
 Ce que je ressentirais lors de l'expérience, c'est de la curiosité car je verrais un poteau avec des
 écrans et un bouton qui clignote, je ressentirais aussi de l'importance aux actions que je pose car
 le progrès de la croissance de l'arbre dépend de moi.
 ### Ordre préférence
-> 4 <br>
+> 3 <br>
 >
-Sur 5, Effet papillon est en 4e position, car je trouvais que l'idée derrière était intéressante, mais
+Sur 5, Effet papillon est en 3e position, car je trouvais que l'idée derrière était intéressante, mais
 je trouve que l'expérience est trop courte. Je pense qu'il faudrait rendre le résultat de chaque action
 plus longue pour vraiment représenter l'impact, surtout que le nom est Effet-papillon donc je mettrais
 la lumière sur les conséquences des actions. Le concept est bien pensé et il y a beaucoup d'interaction,
@@ -153,9 +153,9 @@ Ce que je ressentirais lorsque je l'essayerais, c'est de la détermination parce
 le plus haut possible. Je ressentirais aussi de la compétition car je saurais qu'il y a d'autres personnes qui
 ont un score plus haut que moi. L'adrénaline est aussi ce que je ressentirais car ça va de plus en plus vite.
 ### Ordre préférence
-> 3 <br>
+> 2 <br>
 >
-Kigo vient en 3e position avec son divertissement. Quand je voyais des gens l'essayer, j'étais facilement
+Kigo vient en 2e position avec son divertissement. Quand je voyais des gens l'essayer, j'étais facilement
 captivée par le jeu. Ce mode de jeu peut très bien devenir des compétitions avec des statistiques. Je trouve
 que ça combine le sport et les jeux vidéos et je trouve ça innovatif. Cela permetterait de faire bouger les
 amateurs de jeux vidéos un peu plus. 
@@ -174,28 +174,29 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 <img src="media/plantation_sonalux.png" width="600" height="400"> <br>
 Photo provenant de la page de l'exposition de Crescentia. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
-<photo ici> <br>
-Photos venant de moi. <br>
-description
+Au début, le podium n'était qu'une simple lanche et il y avait seulement quelques touches installées.
+Il était en bois mais les mélodies fonctionnaient.<br>
 ### Vue d'ensemble finale
-<Photo ici> <br>
-Photo prise par moi. <br>
-Description
+La vue d'ensemble finale ressemble à ceci. <br>
+https://youtu.be/ZzHd1uTlD5E?si=tSaJoh0adIPE8aKX
+Vidéo venant de la documentation.
 ### Cours indispensables pour la réalisation
-> 1 </br>
-> 2 </br>
-> 3 </br>
+> Traitement Audiovisuel </br>
+> Installation Multimédia </br>
+> Conception Sonore </br>
 ### Ressenti
-Description et justification ici
+Ce que je ressentirais, c'est du malaise car ce n'est pas prédible et les visuels me donneraient un peu
+le tourni. Je  ressentirais aussi de la curiosité face aux boutons devant moi et je me questionnerais
+de quels sons il s'agit. Les musiques me feraient ressentir quelque chose de différent à chaque fois
+aussi. 
 ### Ordre préférence
-> 1-5 <br>
+> 4 <br>
 >
-Explication ici.
-#### Références
-Photos provenantes de la page d'exposition de Crescentia : </br>
-https://tim-montmorency.com/2024/ <br>
-Github du projet Effet-papillon : <br>
-https://github.com/Iteration6/Effet-Papillon/tree/2b2e73f72208211f2ff77f123d528beb9cf9ef03
+Au début, je trouvais que c'était intriguant car on voit un texte qui dit "chaque geste compte", alors 
+cela nous invite à interagir avec elle. Sur 5, Sonalux vient en 4e à cause du manque de clarté. Si un 
+jour, je suis une personne qui vient visiter l'expérience, je ne saurais pas trop le message derrière. 
+Pour moi, je verrais que j'ai du contrôle sur la musique mais je ne comprendrais pas le sens derrière. 
+Il y a quand même de l'émotion dans l'expérience et elle nous intrigue. 
 ## Nom projet (année réalisation)
 ![photo expo] <br>
 Photos provenant de la page d'exposition de Crescentia. <br>
@@ -226,6 +227,11 @@ Description et justification ici
 > 1-5 <br>
 >
 Explication ici.
+#### Références
+Photos provenantes de la page d'exposition de Crescentia : </br>
+https://tim-montmorency.com/2024/ <br>
+Github du projet Effet-papillon : <br>
+https://github.com/Iteration6/Effet-Papillon/tree/2b2e73f72208211f2ff77f123d528beb9cf9ef03
 #### Références
 Photos provenantes de la page d'exposition de Crescentia : </br>
 https://tim-montmorency.com/2024/ <br>
