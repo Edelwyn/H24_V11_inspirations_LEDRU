@@ -171,7 +171,7 @@ Ses couches de sons qu'on peut alterner entre elles font que le tout peut deveni
 L'évolution de ses sons font qu'elle sont liées au mot ¨crescentia¨, qui signifie croissance.
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
-<photo ici> <br>
+<img src="media/plantation_sonalux.png" width="600" height="400"> <br>
 Photo provenant de la page de l'exposition de Crescentia. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
 <photo ici> <br>
