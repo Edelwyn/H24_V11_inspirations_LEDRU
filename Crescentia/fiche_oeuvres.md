@@ -146,7 +146,7 @@ La kinect est utilisée dans l'Xbox 360 avec sa première version et l'Xbox 1 av
 est sortie vers les années 2010.
 La kinect est composée d'une lumière infrarouge qui permet de détecter un humain. Elle possède aussi un
 capteur de mouvement pour détecter quelque chose qui bouge. Elle scanne donc son environnement et peut capter
-une vingtaine de points de mouvments. Elle superpose le squelette crée à partir de ces points de mouvements
+une vingtaine de points de mouvements. Elle superpose le squelette crée à partir de ces points de mouvements
 avec la caméra de couleur. Ce que la kinect voit est affiché ensuite.
 ### Ressenti
 Ce que je ressentirais lorsque je l'essayerais, c'est de la détermination parce que je voudrais avoir le score
@@ -174,8 +174,8 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 <img src="media/plantation_sonalux.png" width="600" height="400"> <br>
 Photo provenant de la page de l'exposition de Crescentia. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
-Au début, le podium n'était qu'une simple lanche et il y avait seulement quelques touches installées.
-Il était en bois mais les mélodies fonctionnaient.<br>
+Au début, le podium n'était qu'une simple planche de bois et il y avait seulement quelques touches 
+installées. Il était en bois mais les mélodies fonctionnaient.<br>
 ### Vue d'ensemble finale
 La vue d'ensemble finale ressemble à ceci. <br>
 https://www.youtube.com/embed/ZzHd1uTlD5E?si=NR7S8UgKJX5NVMOH <br>
