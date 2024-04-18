@@ -1,1 +1,1 @@
-Voici le compte rendu de la coférence du studio Antimodular. 
+Voici le compte rendu de la conférence du studio Antimodular. 
