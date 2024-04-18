@@ -178,7 +178,7 @@ Au début, le podium n'était qu'une simple lanche et il y avait seulement quelq
 Il était en bois mais les mélodies fonctionnaient.<br>
 ### Vue d'ensemble finale
 La vue d'ensemble finale ressemble à ceci. <br>
-<link href="https://youtu.be/ZzHd1uTlD5E?si=tSaJoh0adIPE8aKX" width:"400" height:"200">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZzHd1uTlD5E?si=NR7S8UgKJX5NVMOH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Vidéo venant de la documentation.
 ### Cours indispensables pour la réalisation
 > Traitement Audiovisuel </br>
