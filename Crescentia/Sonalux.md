@@ -36,3 +36,6 @@ cela nous invite à interagir avec elle. Sur 5, Sonalux vient en 4e à cause du 
 jour, je suis une personne qui vient visiter l'expérience, je ne saurais pas trop le message derrière. 
 Pour moi, je verrais que j'ai du contrôle sur la musique mais je ne comprendrais pas le sens derrière. 
 Il y a quand même de l'émotion dans l'expérience et elle nous intrigue. 
+### Références
+Photos provenantes de la page d'exposition de Crescentia : </br>
+https://tim-montmorency.com/2024/ <br>
