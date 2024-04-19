@@ -14,7 +14,7 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 <img src=media/plantation_effet_papillon.png width="600" height="350"> <br>
 Photo provenant du github du projet. <br>
 <br>
-**À quoi ça ressemblait lors de ma première visite** <br>
+## À quoi ça ressemblait lors de ma première visite <br>
       <img src=media/ecran_atmosphere_projet3.jpg width="200" height="400">  <img src=media/led_lights_racine_projet3.jpg width="450" height="300"><br>
       Photos prises par moi. <br>
       <br>
@@ -41,3 +41,8 @@ plus longue pour vraiment représenter l'impact, surtout que le nom est Effet-pa
 la lumière sur les conséquences des actions. Le concept est bien pensé et il y a beaucoup d'interaction,
 mais je trouve que le côté visuel aurait été mieux. Ils auraient pu utiliser des banderoles et les
 accrocher au plafond pour faire un feuillage, par exemple.
+### Références
+Photos provenantes de la page d'exposition de Crescentia : </br>
+https://tim-montmorency.com/2024/ <br>
+Github du projet Effet-papillon : <br>
+https://github.com/Iteration6/Effet-Papillon/tree/2b2e73f72208211f2ff77f123d528beb9cf9ef03
