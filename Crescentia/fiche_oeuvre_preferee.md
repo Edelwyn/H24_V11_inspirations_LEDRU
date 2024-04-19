@@ -94,17 +94,6 @@ Ici, le model de la kinect est détaillé et s'harmonise bien avec le fond.
 > Programmation ludique </br>
 > Modélisation 3d </br>
 > Réalité Mixte </br>
-## La Kinect
-![photo](media/kinect.jpg) <br>
-Photo provenant de Google. <br>
-La composante que je ne connais pas et qui est présent dans les projets est la kinect. C'est une technologie 
-qui interagit avec la voix et le mouvement. </br>
-La kinect est utilisée dans l'Xbox 360 avec sa première version et l'Xbox 1 avec la deuxième version. Elle 
-est sortie vers les années 2010.
-La kinect est composée d'une lumière infrarouge qui permet de détecter un humain. Elle possède aussi un
-capteur de mouvement pour détecter quelque chose qui bouge. Elle scanne donc son environnement et peut capter
-une vingtaine de points de mouvements. Elle superpose le squelette crée à partir de ces points de mouvements
-avec la caméra de couleur. Ce que la kinect voit est affiché ensuite.
 ### Ressenti
 Ce que je ressentirais lorsque je l'essayerais, c'est de la détermination parce que je voudrais avoir le score
 le plus haut possible. Je ressentirais aussi de la compétition car je saurais qu'il y a d'autres personnes qui
@@ -116,6 +105,17 @@ Kigo vient en 2e position avec son divertissement. Quand je voyais des gens l'es
 captivée par le jeu. Ce mode de jeu peut très bien devenir des compétitions avec des statistiques. Je trouve
 que ça combine le sport et les jeux vidéos et je trouve ça innovatif. Cela permetterait de faire bouger les
 amateurs de jeux vidéos un peu plus. 
+## La Kinect
+![photo](media/kinect.jpg) <br>
+Photo provenant de Google. <br>
+La composante que je ne connais pas et qui est présent dans les projets est la kinect. C'est une technologie 
+qui interagit avec la voix et le mouvement. </br>
+La kinect est utilisée dans l'Xbox 360 avec sa première version et l'Xbox 1 avec la deuxième version. Elle 
+est sortie vers les années 2010.
+La kinect est composée d'une lumière infrarouge qui permet de détecter un humain. Elle possède aussi un
+capteur de mouvement pour détecter quelque chose qui bouge. Elle scanne donc son environnement et peut capter
+une vingtaine de points de mouvements. Elle superpose le squelette crée à partir de ces points de mouvements
+avec la caméra de couleur. Ce que la kinect voit est affiché ensuite.
 ## Sonalux (2024)
 ![photo](media/affiche_expo_sonalux.png) <br>
 Photos provenant de la page d'exposition de Crescentia. <br>
