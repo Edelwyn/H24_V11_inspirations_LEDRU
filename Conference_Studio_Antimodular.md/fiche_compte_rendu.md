@@ -14,7 +14,7 @@ Ensuite, l'installation d'une oeuvre peut être un inconnu total. On est jamais 
 lorsque l'œuvre est dans un endroit complétement désert. Il faut prévoir des protections pour les
 intempéries, prévoir des adaptations et savoir être innovatif lorsque l'on rencontre des imprévus. 
 C'est un travail chargé mais le multimédia inspire les autres et aide à se divertir et se changer les
-idées. 
+idées.<br>
 <br>
 Pour finir, j'aime qu'elle a bien expliqué le pire scénario possible lorsqu'on doit faire et présenter
 une œuvre. Dans l'une d'entre elle, c'était dans un autre pays, une autre culture et un environnement 
