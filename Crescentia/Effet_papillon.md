@@ -24,10 +24,6 @@ avait pas encore les technologies pour chacune des actions. <br>
 ## Vue d'ensemble finale
 <img src=media/vue_ensemble_effet_papillon_.jpg width="350" height="200"> <img src=media/vue_ensemble_effet_papillon_tronc.jpg width="350" height="200"> <br>
 Photos provenantes de la page d'exposition de Crescentia. 
-## Cours indispensables pour la réalisation
-> Programmation </br>
-> Objets Interactifs </br>
-> Modélisation 3d </br>
 ## Ressenti
 Ce que je ressentirais lors de l'expérience, c'est de la curiosité car je verrais un poteau avec des
 écrans et un bouton qui clignote, je ressentirais aussi de l'importance aux actions que je pose car
