@@ -19,5 +19,5 @@ C'est un travail chargé mais le multimédia inspire les autres et aide à se di
 idées.<br>
 <br>
 Pour finir, j'aime qu'elle a bien expliqué le pire scénario possible lorsqu'on doit faire et présenter
-une œuvre. Dans l'une d'entre elles, c'était dans un autre pays, une autre culture et un environnement 
-complètement différent. 
+une œuvre car rien ne va comme comme prévu et il faut souvent s'adapter. Dans l'une de leurs œuvres, 
+c'était dans un autre pays, une autre culture et un environnement complètement différent. 
