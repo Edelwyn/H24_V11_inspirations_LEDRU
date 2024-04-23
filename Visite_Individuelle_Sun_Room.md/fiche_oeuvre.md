@@ -11,4 +11,6 @@ les gens vivent l'expérience de ce genre de thérapie. <br>
 <br>
 **Type d'installation : contemplative** <br>
 **Date de visite : 9 mars 2024** <br>
-<img src="media/vue_ensemble_salle.jpg" width="200" height="400">
+<img src="media/vue_ensemble_salle.jpg" width="200" height="400"> <br>
+Photo venant de moi.
+### Fonction
