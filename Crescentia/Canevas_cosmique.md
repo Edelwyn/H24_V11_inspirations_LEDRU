@@ -11,7 +11,7 @@ Le lien avec la croissance ici est le mélange de plusieurs éléments font qu'i
 quelque chose de nouveau et donc évolue à sa manière.
 ### Plantation 
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
-<img src="media/plantation_canevas_cosmique.png" width="700" height="500"> <br>
+<img src="media/plantation_canevas_cosmique.png" width="700" height="300"> <br>
 Photo provenant de la page de l'exposition de Crescentia. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
 <photo ici> <br>
