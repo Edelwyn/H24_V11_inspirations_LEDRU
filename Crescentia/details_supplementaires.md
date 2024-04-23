@@ -1,7 +1,7 @@
 ## La Kinect
 ![photo](media/kinect.jpg) <br>
 Photo provenant de Google. <br>
-La composante que je ne connais pas et qui est présent dans les projets est la kinect. C'est une technologie 
+La composante que je ne connais pas et qui est présent dans certains projets est la kinect. C'est une technologie 
 qui interagit avec la voix et le mouvement. </br>
 La kinect est utilisée dans l'Xbox 360 avec sa première version et l'Xbox 1 avec la deuxième version. Elle 
 est sortie vers les années 2010.
