@@ -23,12 +23,12 @@ lentement. Au fond, il y a des lampes à luminotherapie pour que les gens vivent
 ce genre de thérapie. Il y a aussi des bancs devant la lumière LED pour se reposer et observer.
 
 ## Composantes 
-> La lumière LED qui change de couleur <br>
+<li> La lumière LED qui change de couleur</li> <br>
 <br>
-<img src="media/compo_lumiere_led_ronde.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_led.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_2.jpg" width="200" height="200"> <br>
-> Les hauts parleurs <br>
+<li><img src="media/compo_lumiere_led_ronde.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_led.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_2.jpg" width="200" height="200"></li> <br>
+<li>Les hauts parleurs </li> <br>
 <img src="media/haut_parleur_mise_expo.jpg" width="200" height="400"><br>
-> Les lampe lumino-thérapie <br>
+<li>Les lampe lumino-thérapie</li><br>
 <img src="media/compo_luminotherapie.jpg" width="200" height="400"> <br>
-> Les câbles <br>
+<li> Les câbles </li> <br>
 <img src="media/mise_expo_cables.jpg" width="200" height="400"><br>
