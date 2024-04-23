@@ -14,7 +14,7 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 <img src="media/plantation_canevas_cosmique.png" width="700" height="400"> <br>
 Photo provenant de la page de l'exposition de Crescentia. <br>
 <br>
-**À quoi ça ressemblait lors de ma première visite** <br>
+## À quoi ça ressemblait lors de ma première visite
 <img src="media/vue_debut_canevas_cosmique.jpg" width="450" height="400"> <br>
 Photo venant de moi. <br>
 Les éléments imprimés en 3d n'étaient pas encore terminés mais on pouvait quand
