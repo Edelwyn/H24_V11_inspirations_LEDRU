@@ -23,7 +23,7 @@ même intéragir avec les codes qr.
 ## Vue d'ensemble finale
 <img src="media/vue_ensemble_finale_canevas_cosmique.jpg" width="450" height="400"> <br>
 Photo venant du site web de Crescentia. <br>
-On voit que tout les éléments sont imprimés et prêts à être utilisé.
+On voit que tout les éléments 3d sont imprimés et prêts à être utilisé.
 ## Ressenti
 Ce que je ressentirais lorsque je l'essayerais, c'est de la curiosité et de la
 réflexion. J'essayerais toute les possibilitées mais je m'ennuyerais assez
