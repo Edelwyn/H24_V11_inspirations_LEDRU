@@ -11,6 +11,6 @@ une vingtaine de points de mouvements. Elle superpose le squelette crée à part
 avec la caméra de couleur. Ce que la kinect voit est affiché ensuite.
 
 ## Cours incontournables pour la réalisation de ce genre de projets
-> 1
-> 2
-> 3
+> 1 <br>
+> 2 <br>
+> 3 <br>
