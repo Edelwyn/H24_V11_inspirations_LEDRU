@@ -1,6 +1,7 @@
 # Travailler dans le multimédia (et ses imperfections)
 <br>
 <img src="media/oeuvre_rafael_loranzo-hemmer.jpg">  <br>
+Image provenant du site web de l'artiste. <br>
 Quand on parle de multimédia, on pense à ses différentes parties mais on ignore souvent comment se passent 
 l'installation et les arrière-scènes de ses expériences. Dans la conférence, Jade, la registraire du studio
 Antimodular, nous explique ce que le studio fait et les péripéties qu'une expérience peut avoir avant le 
@@ -21,3 +22,7 @@ idées.<br>
 Pour finir, j'aime qu'elle a bien expliqué le pire scénario possible lorsqu'on doit faire et présenter
 une œuvre car rien ne va comme comme prévu et il faut souvent s'adapter. Dans l'une de leurs œuvres, 
 c'était dans un autre pays, une autre culture et un environnement complètement différent. 
+
+#### Référence
+Site web de l'artiste : 
+https://www.lozano-hemmer.com/projects.php
