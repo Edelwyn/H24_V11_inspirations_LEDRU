@@ -16,3 +16,5 @@ Photo venant de moi.
 ### Fonction
 <img src="media/fonction_citation.jpg" width="400" height="300"> <br>
 Photo venant de moi. 
+## Mise en exposition
+<img src="media/mise_expo_sun_room.jpg" width="450" height="200">
