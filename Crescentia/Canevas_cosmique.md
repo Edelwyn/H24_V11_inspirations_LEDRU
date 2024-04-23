@@ -15,11 +15,11 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 Photo provenant de la page de l'exposition de Crescentia. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
 <img src="media/vue_debut_canevas_cosmique.jpg" width="450" height="400"> <br>
-Photos venant de moi. <br>
+Photo venant de moi. <br>
 Les éléments imprimés en 3d n'étaient pas encore terminés mais on pouvait quand
 même intéragir avec les codes qr.
 ## Vue d'ensemble finale
-<img src="media/vue_ensemble_finale.png" width="450" height="400"> <br>
+<img src="media/vue_ensemble_finale_canevas_cosmique.png" width="450" height="400"> <br>
 Photo venant du site web de Crescentia. <br>
 On voit que tout les éléments sont imprimés et prêts à être utilisé.
 ## Ressenti
