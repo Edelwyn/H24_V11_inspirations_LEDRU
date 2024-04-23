@@ -27,7 +27,7 @@ ce genre de thérapie. Il y a aussi des bancs devant la lumière LED pour se rep
 <img src="media/compo_lumiere_led_ronde.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_led.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_2.jpg" width="200" height="200"> <br>
 <li>Les hauts parleurs </li> <br>
 <img src="media/haut_parleur_mise_expo.jpg" width="200" height="400"><br>
-<li>Les lampe lumino-thérapie</li><br>
+<li>Les lampes lumino-thérapie</li><br>
 <img src="media/compo_luminotherapie.jpg" width="200" height="400"> <br>
 <li> Les câbles </li> <br>
 <img src="media/mise_expo_cables.jpg" width="200" height="400"><br>
