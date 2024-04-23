@@ -8,6 +8,7 @@ et s'apaiser l'esprit. Il y a des murs blancs pour nous faire oublier le temps q
 minimiser les distractions. Au plafond, il y a une lumière led qui représente le soleil et
 change de couleur et clignote lentement. Au fond, il y a des lampes à luminotherapie pour que
 les gens vivent l'expérience de ce genre de thérapie. <br>
+<br>
 **Type d'installation : contemplative** <br>
 **Date de visite : 9 mars 2024** <br>
 <img src="media/vue_ensemble_salle.jpg" width="200" height="400">
