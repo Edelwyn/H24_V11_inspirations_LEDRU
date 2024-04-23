@@ -24,8 +24,7 @@ ce genre de thérapie. Il y a aussi des bancs devant la lumière LED pour se rep
 
 ## Composantes 
 <li> La lumière LED qui change de couleur</li> <br>
-<br>
-<li><img src="media/compo_lumiere_led_ronde.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_led.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_2.jpg" width="200" height="200"></li> <br>
+<img src="media/compo_lumiere_led_ronde.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_led.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_2.jpg" width="200" height="200"> <br>
 <li>Les hauts parleurs </li> <br>
 <img src="media/haut_parleur_mise_expo.jpg" width="200" height="400"><br>
 <li>Les lampe lumino-thérapie</li><br>
