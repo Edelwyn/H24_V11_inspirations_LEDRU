@@ -7,3 +7,4 @@ de mauvaise humeur plus rapidement et frequemment. C'est un petit espace où on 
 et s'apaiser l'esprit. <br>
 **Type d'installation : contemplative** <br>
 **Date de visite : 9 mars 2024**
+<img src="media/vue_ensemble_salle.jpg" width="200" height="400">
