@@ -19,10 +19,6 @@ installées. Il était en bois mais les mélodies fonctionnaient.<br>
 La vue d'ensemble finale ressemble à ceci. <br>
 https://www.youtube.com/embed/ZzHd1uTlD5E?si=NR7S8UgKJX5NVMOH <br>
 Vidéo venant de la documentation.
-## Cours indispensables pour la réalisation
-> Traitement Audiovisuel </br>
-> Installation Multimédia </br>
-> Conception Sonore </br>
 ## Ressenti
 Ce que je ressentirais, c'est du malaise car ce n'est pas prédible et les visuels me donneraient un peu
 le tourni. Je  ressentirais aussi de la curiosité face aux boutons devant moi et je me questionnerais
