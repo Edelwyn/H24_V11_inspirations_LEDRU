@@ -23,10 +23,6 @@ Il y avait seulement une ou deux saisons et le model de la kinect n'était pas d
 <img src=media/fonction_dispositif_projection_kigo.jpg width="400" height="500"> <br>
 Photo prise par moi. <br>
 Ici, le model de la kinect est détaillé et s'harmonise bien avec le fond. 
-## Cours indispensables pour la réalisation
-> Programmation ludique </br>
-> Modélisation 3d </br>
-> Réalité Mixte </br>
 ## Ressenti
 Ce que je ressentirais lorsque je l'essayerais, c'est de la détermination parce que je voudrais avoir le score
 le plus haut possible. Je ressentirais aussi de la compétition car je saurais qu'il y a d'autres personnes qui
