@@ -31,3 +31,5 @@ ce genre de thérapie. Il y a aussi des bancs devant la lumière LED pour se rep
 <img src="media/compo_luminotherapie.jpg" width="200" height="400"> <br>
 <li> Les câbles </li> <br>
 <img src="media/mise_expo_cables.jpg" width="200" height="400"><br>
+<li>Les bancs </li> <br>
+<img src="media/mise_expo_banc.jpg" width="200" height="400">
