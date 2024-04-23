@@ -76,38 +76,3 @@ La kinect est composée d'une lumière infrarouge qui permet de détecter un hum
 capteur de mouvement pour détecter quelque chose qui bouge. Elle scanne donc son environnement et peut capter
 une vingtaine de points de mouvements. Elle superpose le squelette crée à partir de ces points de mouvements
 avec la caméra de couleur. Ce que la kinect voit est affiché ensuite. 
-## Nom projet (année réalisation)
-![photo expo] <br>
-Photos provenant de la page d'exposition de Crescentia. <br>
-**Réalisé par nom, nom, nom** <br>
-<br>
-Description
-#### Lien avec crescentia
- 
-### Plantation 
-Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
-<photo ici> <br>
-Photo provenant de la page de l'exposition de Crescentia. <br>
-**À quoi ça ressemblait lors de ma première visite** <br>
-<photo ici> <br>
-Photos venant de moi. <br>
-description
-### Vue d'ensemble finale
-<Photo ici> <br>
-Photo prise par moi. <br>
-Description
-### Cours indispensables pour la réalisation
-> 1 </br>
-> 2 </br>
-> 3 </br>
-### Ressenti
-Description et justification ici
-### Ordre préférence
-> 1-5 <br>
->
-Explication ici.
-#### Références
-Photos provenantes de la page d'exposition de Crescentia : </br>
-https://tim-montmorency.com/2024/ <br>
-Github du projet Effet-papillon : <br>
-https://github.com/Iteration6/Effet-Papillon/tree/2b2e73f72208211f2ff77f123d528beb9cf9ef03
