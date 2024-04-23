@@ -1,6 +1,6 @@
 # Canevas Cosmique (2024)
 ![photo](media/affiche_expo_canevas_cosmique.png)
-Photos provenant de la page d'exposition de Crescentia. <br>
+Photo provenant de la page d'exposition de Crescentia. <br>
 **Réalisé par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et 
 Mikaël Tourangeau** <br>
 <br>
@@ -16,17 +16,23 @@ Photo provenant de la page de l'exposition de Crescentia. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
 <img src="media/vue_debut_canevas_cosmique.jpg" width="450" height="400"> <br>
 Photos venant de moi. <br>
-description
+Les éléments imprimés en 3d n'étaient pas encore terminés mais on pouvait quand
+même intéragir avec les codes qr.
 ## Vue d'ensemble finale
-<Photo ici> <br>
-Photo prise par moi. <br>
-Description
+<img src="media/vue_ensemble_finale.png" width="450" height="400"> <br>
+Photo venant du site web de Crescentia. <br>
+On voit que tout les éléments sont imprimés et prêts à être utilisé.
 ## Ressenti
-Description et justification ici
+Ce que je ressentirais lorsque je l'essayerais, c'est de la curiosité et de la
+réflexion. J'essayerais toute les possibilitées mais je m'ennuyerais assez
+rapidement.
 ## Ordre préférence
-> 1-5 <br>
+> 5 <br>
 >
-Explication ici.
+Canevas cosmique vient en 5e position car je trouve que les gens s'ennuyeraient
+rapidement à cause du manque d'intrigue. C'est simple mais je trouve que si on
+ajoutait un but ou une histoire, l'interaction prendrait un autre sens et rendrait
+l'expérience plus mémorable. 
 #### Références
 Photos provenantes de la page d'exposition de Crescentia : </br>
 https://tim-montmorency.com/2024/ <br>
