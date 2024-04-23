@@ -13,11 +13,13 @@ quelque chose de nouveau et donc évolue à sa manière.
 Voici le plan pour montrer en détail où chaque élément doit être placé. <br>
 <img src="media/plantation_canevas_cosmique.png" width="700" height="400"> <br>
 Photo provenant de la page de l'exposition de Crescentia. <br>
+<br>
 **À quoi ça ressemblait lors de ma première visite** <br>
 <img src="media/vue_debut_canevas_cosmique.jpg" width="450" height="400"> <br>
 Photo venant de moi. <br>
 Les éléments imprimés en 3d n'étaient pas encore terminés mais on pouvait quand
 même intéragir avec les codes qr.
+<br>
 ## Vue d'ensemble finale
 <img src="media/vue_ensemble_finale_canevas_cosmique.jpg" width="450" height="400"> <br>
 Photo venant du site web de Crescentia. <br>
