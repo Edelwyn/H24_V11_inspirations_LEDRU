@@ -14,7 +14,7 @@ Voici le plan pour montrer en détail où chaque élément doit être placé. <b
 <img src="media/plantation_canevas_cosmique.png" width="700" height="400"> <br>
 Photo provenant de la page de l'exposition de Crescentia. <br>
 **À quoi ça ressemblait lors de ma première visite** <br>
-<photo ici> <br>
+<img src="media/vue_debut_canevas_cosmique" width="450" height="200"> <br>
 Photos venant de moi. <br>
 description
 ### Vue d'ensemble finale
@@ -30,6 +30,3 @@ Explication ici.
 #### Références
 Photos provenantes de la page d'exposition de Crescentia : </br>
 https://tim-montmorency.com/2024/ <br>
-Github du projet Effet-papillon : <br>
-https://github.com/Iteration6/Effet-Papillon/tree/2b2e73f72208211f2ff77f123d528beb9cf9ef03
-
