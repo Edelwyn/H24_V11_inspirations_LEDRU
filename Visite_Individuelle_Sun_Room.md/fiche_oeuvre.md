@@ -14,4 +14,5 @@ les gens vivent l'expérience de ce genre de thérapie. <br>
 <img src="media/vue_ensemble_salle.jpg" width="300" height="400"> <br>
 Photo venant de moi.
 ### Fonction
-<img src="media/fonction_citation.jpg" width="400" height="300">
+<img src="media/fonction_citation.jpg" width="400" height="300"> <br>
+Photo venant de moi. 
