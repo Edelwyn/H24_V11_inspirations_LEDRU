@@ -1,5 +1,5 @@
 # Canevas Cosmique (2024)
-![photo](media/affiche_expo_canevas_cosmique.png)
+![photo](media/affiche_expo_canevas_cosmique.png) <br>
 Photo provenant de la page d'exposition de Crescentia. <br>
 **Réalisé par Jacob Alarie-Brousseau, Étienne Charron, Jérémy Cholette, Quoc Huy Do et 
 Mikaël Tourangeau** <br>
