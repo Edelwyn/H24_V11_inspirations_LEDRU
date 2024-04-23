@@ -5,9 +5,7 @@ Photo venant de moi.
 La sun room est concue pour se recharger, car le manque de lumière a tendance à nous rendre
 de mauvaise humeur plus rapidement et frequemment. C'est un petit espace où on peut se reposer 
 et s'apaiser l'esprit. Il y a des murs blancs pour nous faire oublier le temps qui passe et
-minimiser les distractions. Au plafond, il y a une lumière led qui représente le soleil et
-change de couleur et clignote lentement. Au fond, il y a des lampes à luminotherapie pour que
-les gens vivent l'expérience de ce genre de thérapie. <br>
+minimiser les distractions. <br>
 <br>
 **Type d'installation : contemplative** <br>
 **Date de visite : 9 mars 2024** <br>
@@ -15,6 +13,15 @@ les gens vivent l'expérience de ce genre de thérapie. <br>
 Photo venant de moi.
 ### Fonction
 <img src="media/fonction_citation.jpg" width="400" height="300"> <br>
-Photo venant de moi. 
-## Mise en exposition
+Photo venant de moi. <br>
+Ici, on nous met dans le contexte avec une citation qui nous dit de faire face à la lumière
+et nos problèmes vont se dissiper derrière nous.
+## Mise en espace
 <img src="media/mise_expo_sun_room.jpg" width="550" height="400">
+Au plafond, il y a une lumière led qui représente le soleil qui change de couleur et clignote 
+lentement. Au fond, il y a des lampes à luminotherapie pour que les gens vivent l'expérience de 
+ce genre de thérapie. Il y a aussi des bancs devant la lumière LED pour se reposer et observer.
+
+## Composantes 
+> La lumière LED qui change de couleur <br>
+<img src="media/
