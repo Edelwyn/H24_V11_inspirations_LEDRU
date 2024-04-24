@@ -48,10 +48,10 @@ que c'est comme ça que le tout semblait très lent. J'ai aussi aimé comment le
 la lumière LED était la seule distraction et les murs blancs est intelligent pour faire ressentir de la 
 relaxation dans l'expérience. 
 ## Ce que je ferais autrement
-Il n'y a pas grand chose que je ferais autrement à part le fait d'ajouter plus de texte sur ce que les gens 
-doivent s'attendre parce que je voyais des gens passer seulement quelques minutes dans la salle car il n'y 
-avait pas grand chose à faire. Si il y aurais plus d'information sur l'intention, je crois que les gens
-essayeront au moins de voir si l'effet est présent. 
+Il n'y a pas grand chose que je ferais autrement à part le fait d'ajouter plus de texte au lieu d'une 
+citation abstraite parce que je voyais des gens passer seulement quelques minutes dans la salle car il 
+n'y avait pas grand chose à faire. S'il y aurais plus d'information sur l'intention, je crois que les 
+gens essayeront au moins de voir si l'effet est présent. 
 #### Références
 Site web d'Age of Union Center :
 https://ageofunion.com/
