@@ -1,6 +1,6 @@
 # Travailler dans le multimédia (et ses imperfections)
 <br>
-<img src="media/oeuvre_rafael_loranzo-hemmer.jpg">  <br>
+<img src="media/oeuvre_rafael_loranzo-hemmer.jpg">
 Image provenant du site web de l'artiste. <br>
 <br>
 Quand on parle de multimédia, on pense à ses différentes parties mais on ignore souvent comment se passent 
