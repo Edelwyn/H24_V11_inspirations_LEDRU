@@ -10,4 +10,4 @@ peut créer des jeux de lumière avec des possibilités illimitées. <br>
 **Type d'installation: interactive**<br>
 <img src="media/description_exemple_1.jpg" width="400" height="200">  <img src="media/description_exemple_2.jpg" width="400" height="200">
 ## Fonction 
-<img src="media/fiche_expo_lumiere.jpg" width="200" height="400">
+<img src="media/fiche_expo_lumiere.jpg" width="250" height="400">
