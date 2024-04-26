@@ -10,7 +10,7 @@ minimiser les distractions. <br>
 <br>
 **Type d'installation : contemplative** <br>
 **Date de visite : 9 mars 2024** <br>
-<img src="media/vue_ensemble_salle.jpg" width="300" height="400"> <br>
+<img src="media/vue_ensemble_sun_room.jpg" width="300" height="400"> <br>
 Photo venant de moi.
 ### Fonction
 <img src="media/fonction_citation.jpg" width="400" height="300"> <br>
