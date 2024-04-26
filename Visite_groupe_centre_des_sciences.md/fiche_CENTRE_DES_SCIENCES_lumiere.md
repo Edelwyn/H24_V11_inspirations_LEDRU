@@ -9,6 +9,7 @@ formes 3d(prisme, demi-lune) et un objet qui divise la lumière. La personne qui
 peut créer des jeux de lumière avec des possibilitées illimitées. <br>
 <br>
 **Type d'installation: interactive**<br>
+*Date de visite : 5 avril 2024*
 <br>
 <img src="media/description_exemple_1.jpg" width="300" height="500">  <img src="media/description_exemple_2.jpg" width="300" height="500"><br>
 Photos prise par moi.
