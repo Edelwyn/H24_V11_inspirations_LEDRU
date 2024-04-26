@@ -36,9 +36,11 @@ ce genre de thérapie. Il y a aussi des bancs devant la lumière LED pour se rep
 <li>Les murs blanc (présents dans les autres images) </li>
 
 ## Expérience vécue
+La personne est attendue à s'assir et se reposer et en général, prendre une pause sur les
+distractions tout autour de nous. <br>
 Mon expérience vécue est un peu inattendue comparé à ce que j'attendais, je pensais que se serais 
-un peu plus intéressant à regarder mais la salle avait l'air banale. Au final, ça m'a beaucoup 
-apaisé et j'ai remarqué que je ne pensais à rien pendant que j'observais. Le temps passait beaucoup
+un peu plus intéressant à regarder parce que la salle avait l'air banale. Au final, ça m'a très 
+apaisée et j'ai remarqué que je ne pensais à rien pendant que j'observais. Le temps passait beaucoup
 plus lentement. Je pensais passer 15 min mais on dirait qu'il s'était passé 30 minutes après à peu 
 près dix minutes. 
 ## Ce que j'ai aimé
