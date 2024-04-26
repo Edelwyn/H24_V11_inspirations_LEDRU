@@ -57,7 +57,7 @@ Photo prise par moi.
 ## Elements nécessaires pour la mise en exposition
 <li>Un mur</li>
 
-## Exprience vécue 
+## Expérience vécue 
 L'interacteur est supposé expérimenter avec les différents éléments. Les élément vont
 élargir ou rétrécir la lumière, la réfléchir ou modifier sa couleur. <br>
 Lorsque je l'ai vu, ça m'as instinctivement interpellé, car c'est un peu en lien avec un
