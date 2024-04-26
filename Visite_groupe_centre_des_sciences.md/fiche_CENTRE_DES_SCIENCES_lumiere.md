@@ -39,12 +39,14 @@ pour changer la couleur du soleil.
 <li>Un mur</li>
 
 ## Exprience vécue 
+L'interacteur est supposé expérimenter avec les différents éléments. Les élément vont
+élargir ou rétrécir la lumière, la réfléchir ou modifier sa couleur. <br>
 Lorsque je l'ai vu, ça m'as instinctivement interpellé, car c'est un peu en lien avec un
 projet personnel que j'ai mais avec des mirroirs. Je me suis dit que ça pourrais me donner
 des idées si jamais je voudrais le rendre intéractif. Au final, j'ai pris plaisir à essayer
 plusieurs possibilitées et je me sentais comme une enfant. 
 
-## Ce qui m'a plu et donné des idées
+## Ce qui m'a plu et donné des idées 
 Ce que j'ai aimé, c'est comment le tout était intéressant et amusant à essayer. j'ai adoré
 réfléchir sur quel effet donnerait un certain prisme ou même plusieurs prismes. Ce qui m'a
 donné des idées sont de changer la lumière de couleur ou faire diffusé la lumière dans de
