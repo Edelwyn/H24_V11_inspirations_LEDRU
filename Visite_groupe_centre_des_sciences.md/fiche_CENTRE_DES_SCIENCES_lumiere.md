@@ -27,18 +27,23 @@ pour changer la couleur du soleil.
 <li>Les lumières</li>
 <img src="media/compo_lumiere.jpg" width="320" height="500"><br>
 Photo prise par moi.
+<br>
 <li>Le soleil</li>
 <img src="media/compo_soleil_led.jpg" width="320" height="500"><br>
 Photo prise par moi.
+<br>
 <li>Verres colorés</li>
 <img src="media/compo_verre_colores.jpg" width="320" height="500"><br>
 Photo prise par moi.
+<br>
 <li>Prisme</li>
 <img src="media/compo_prisme.jpg" width="320" height="500"><br>
 Photo prise par moi.
+<br>
 <li>Pièce bloquant la lumière</li>
 <img src="media/compo_piece_noire.jpg" width="320" height="500"><br>
 Photo prise par moi.
+<br>
 <li>Les boutons</li>
 <img src="media/compo_boutons_rgb.jpg" width="320" height="500"><br>
 Photo prise par moi.
