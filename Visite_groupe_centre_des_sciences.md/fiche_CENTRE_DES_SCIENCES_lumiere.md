@@ -32,7 +32,7 @@ Photo prise par moi.
 <img src="media/compo_soleil_led.jpg" width="320" height="500"><br>
 Photo prise par moi.
 <br>
-<li>Verres colorés</li>
+<li>Vitre colorée</li>
 <img src="media/compo_verre_colores.jpg" width="320" height="500"><br>
 Photo prise par moi.
 <br>
