@@ -42,7 +42,7 @@ pour changer la couleur du soleil.
 L'interacteur est supposé expérimenter avec les différents éléments. Les élément vont
 élargir ou rétrécir la lumière, la réfléchir ou modifier sa couleur. <br>
 Lorsque je l'ai vu, ça m'as instinctivement interpellé, car c'est un peu en lien avec un
-projet personnel que j'ai mais avec des mirroirs. Je me suis dit que ça pourrais me donner
+projet personnel que j'ai mais avec des mirroirs. Je me suis dit que ça pourrait me donner
 des idées si jamais je voudrais le rendre interactif. Au final, j'ai pris plaisir à essayer
 plusieurs possibilitées et je me sentais comme une enfant. Le résultat me rendait satisfaite
 à chaque fois. 
