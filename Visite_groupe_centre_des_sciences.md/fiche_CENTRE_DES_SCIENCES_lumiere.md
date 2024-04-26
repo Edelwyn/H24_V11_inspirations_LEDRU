@@ -43,18 +43,21 @@ L'interacteur est supposé expérimenter avec les différents éléments. Les é
 élargir ou rétrécir la lumière, la réfléchir ou modifier sa couleur. <br>
 Lorsque je l'ai vu, ça m'as instinctivement interpellé, car c'est un peu en lien avec un
 projet personnel que j'ai mais avec des mirroirs. Je me suis dit que ça pourrais me donner
-des idées si jamais je voudrais le rendre intéractif. Au final, j'ai pris plaisir à essayer
-plusieurs possibilitées et je me sentais comme une enfant. 
+des idées si jamais je voudrais le rendre interactif. Au final, j'ai pris plaisir à essayer
+plusieurs possibilitées et je me sentais comme une enfant. Le résultat me rendait satisfaite
+à chaque fois. 
 
 ## Ce qui m'a plu et donné des idées 
-Ce que j'ai aimé, c'est comment le tout était intéressant et amusant à essayer. j'ai adoré
-réfléchir sur quel effet donnerait un certain prisme ou même plusieurs prismes. Ce qui m'a
-donné des idées sont de changer la lumière de couleur ou faire diffusé la lumière dans de
-la vitre colorée.
+Ce que j'ai aimé, c'est comment le tout était intéressant et amusant à essayer parce que 
+le résultat de différents éléments ensemble m'intriguait. J'ai adoré réfléchir sur quel 
+effet donnerait un certain prisme ou même plusieurs prismes. Ce qui m'a donné des idées 
+sont de changer la lumière de couleur ou faire diffuser la lumière dans de la vitre 
+colorée.  
 
 ## Ce que je ferais différemment 
 Ce que je ferais de différent, c'est d'ajouter une fonction pour modifier l'intensité de la 
-lumière ou la trajectoire pour qu'elle aille plus loin ou être plus précise.
+lumière ou la trajectoire pour qu'elle aille plus loin ou être plus précise juste parce que
+la lumière a tendance à diminuée lorsqu'elle est réfléchie sur un mirroir. 
 
 ### Références
 Site internet du centre des sciences :
