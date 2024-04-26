@@ -10,9 +10,11 @@ peut créer des jeux de lumière avec des possibilitées illimitées. <br>
 <br>
 **Type d'installation: interactive**<br>
 <br>
-<img src="media/description_exemple_1.jpg" width="300" height="500">  <img src="media/description_exemple_2.jpg" width="300" height="500">
+<img src="media/description_exemple_1.jpg" width="300" height="500">  <img src="media/description_exemple_2.jpg" width="300" height="500"><br>
+Photos prise par moi.
 ## Fonction 
 <img src="media/fiche_expo_lumiere.jpg" width="320" height="500">
+Photo prise par moi.
 
 ## Mise en espace
 Il y a des lumière en biais pour le côté esthétique et maximiser les possibilitées. Les 
@@ -23,17 +25,23 @@ pour changer la couleur du soleil.
 
 ## Composantes 
 <li>Les lumières</li>
-<img src="media/compo_lumiere.jpg" width="320" height="500">
+<img src="media/compo_lumiere.jpg" width="320" height="500"><br>
+Photo prise par moi.
 <li>Le soleil</li>
-<img src="media/compo_soleil_led.jpg" width="320" height="500">
+<img src="media/compo_soleil_led.jpg" width="320" height="500"><br>
+Photo prise par moi.
 <li>Verres colorés</li>
-<img src="media/compo_verre_colores.jpg" width="320" height="500">
+<img src="media/compo_verre_colores.jpg" width="320" height="500"><br>
+Photo prise par moi.
 <li>Prisme</li>
-<img src="media/compo_prisme.jpg" width="320" height="500">
+<img src="media/compo_prisme.jpg" width="320" height="500"><br>
+Photo prise par moi.
 <li>Pièce bloquant la lumière</li>
-<img src="media/compo_piece_noire.jpg" width="320" height="500">
+<img src="media/compo_piece_noire.jpg" width="320" height="500"><br>
+Photo prise par moi.
 <li>Les boutons</li>
-<img src="media/compo_boutons_rgb.jpg" width="320" height="500">
+<img src="media/compo_boutons_rgb.jpg" width="320" height="500"><br>
+Photo prise par moi.
 
 ## Elements nécessaires pour la mise en exposition
 <li>Un mur</li>
