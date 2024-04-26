@@ -1,6 +1,7 @@
-# Sun Room - Age of Union center (2023)
+# Sun Room - Age of Union center (2016)
 ![photo](media/lieu_expo_sun_room.jpg) <br>
 Photo venant de moi.
+*Réalisé par Kelly Nunes*
 ## Description 
 La Sun Room est conçue pour se recharger, car le manque de lumière a tendance à nous rendre
 de mauvaise humeur plus rapidement et fréquemment. C'est un petit espace où on peut se reposer 
