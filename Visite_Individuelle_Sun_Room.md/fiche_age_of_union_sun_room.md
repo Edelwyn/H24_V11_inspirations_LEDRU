@@ -11,7 +11,7 @@ minimiser les distractions. <br>
 **Type d'installation : contemplative** <br>
 **Date de visite : 9 mars 2024** <br>
 <img src="media/vue_ensemble_sun_room.jfif" width="500" height="400"> <br>
-Photo venant de moi.
+Photo venant de la page de l'artiste.
 ### Fonction
 <img src="media/fonction_citation.jpg" width="400" height="300"> <br>
 Photo venant de moi. <br>
@@ -55,5 +55,7 @@ abstraite parce que je voyais des gens passer seulement quelques minutes dans la
 peu à faire. S'il y avait plus d'information sur l'intention, je crois que les gens essayeront au moins 
 de voir si l'effet est présent et vont plus avoir un avis sur l'expérience.
 #### Références
-Site web d'Age of Union Center :
+Site web d'Age of Union Center : <br>
 https://ageofunion.com/
+Site web de l'artiste : <br>
+[https://kellynunes.com/Glacier-Cave](https://kellynunes.com/Home-page)
