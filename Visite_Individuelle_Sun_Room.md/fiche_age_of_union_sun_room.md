@@ -27,13 +27,13 @@ ce genre de thérapie. Il y a aussi des bancs devant la lumière DEL pour se rep
 <img src="media/compo_lumiere_led_ronde.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_led.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_2.jpg" width="200" height="200"> <br>
 <li>Les hauts parleurs </li> <br>
 <img src="media/haut_parleur_mise_expo.jpg" width="200" height="400"><br>
-<li>Les lampes lumino-thérapie</li><br>
+<li>Les lampes de lumino-thérapie</li><br>
 <img src="media/compo_luminotherapie.jpg" width="200" height="400"> <br>
 <li> Les câbles </li> <br>
 <img src="media/mise_expo_cables.jpg" width="200" height="400"><br>
 <li>Les bancs </li> <br>
 <img src="media/mise_expo_banc.jpg" width="200" height="400">
-<li>Les murs blanc (présents dans les autres images) </li>
+<li>Les murs blancs (présents dans les autres images) </li>
 
 ## Expérience vécue
 La personne est attendue à s'asseoir et se reposer et en général, prendre une pause sur les
