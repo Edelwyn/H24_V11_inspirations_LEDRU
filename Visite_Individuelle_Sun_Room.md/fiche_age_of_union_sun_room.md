@@ -20,7 +20,7 @@ et nos problèmes vont se dissiper derrière nous.
 ## Mise en espace
 <img src="media/mise_expo_sun_room.jpg" width="550" height="400">
 Au plafond, il y a une lumière led qui représente le soleil qui change de couleur et clignote 
-lentement. Au fond, il y a des lampes à luminothérapie pour que les gens vivent l'expérience de 
+lentement. Au fond, il y a des lampes à héliothérapie pour que les gens vivent l'expérience de 
 ce genre de thérapie. Il y a aussi des bancs devant la lumière DEL pour se reposer et observer.
 
 ## Composantes 
@@ -28,7 +28,7 @@ ce genre de thérapie. Il y a aussi des bancs devant la lumière DEL pour se rep
 <img src="media/compo_lumiere_led_ronde.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_led.jpg" width="200" height="200">  <img src="media/variation_couleur_compo_lumiere_2.jpg" width="200" height="200"> <br>
 <li>Les hauts parleurs </li> <br>
 <img src="media/haut_parleur_mise_expo.jpg" width="200" height="400"><br>
-<li>Les lampes de lumino-thérapie</li><br>
+<li>Les lampes d'héliothérapie </li><br>
 <img src="media/compo_luminotherapie.jpg" width="200" height="400"> <br>
 <li> Les câbles </li> <br>
 <img src="media/mise_expo_cables.jpg" width="200" height="400"><br>
