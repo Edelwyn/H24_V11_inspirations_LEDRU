@@ -18,7 +18,7 @@ Photos prise par moi.
 Photo prise par moi.
 
 ## Mise en espace
-<img src="media/plantation_lumiere.png" width="500" height="300">
+<img src="media/plantation_lumiere.png" width="500" height="400">
 Il y a des lumières en biais pour le côté esthétique et maximiser les possibilités. Les 
 éléments interactifs sont les verres colorés, les prismes, des miroirs et les éléments 
 qui bloquent la lumière pour un maximum d'expérimentation pour la personne. Ensuite, il 
