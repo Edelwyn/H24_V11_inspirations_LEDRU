@@ -51,7 +51,7 @@ la lumière LED était la seule distraction et les murs blancs est intelligent p
 relaxation dans l'expérience. 
 ## Ce que je ferais autrement
 Il n'y a pas grand chose que je ferais autrement à part ajouter plus de texte au lieu d'une citation 
-abstraite parce que je voyais des gens passer seulement quelques minutes dans la salle car il n'y avait 
+abstraite parce que je voyais des gens passer seulement quelques minutes dans la salle, car il n'y avait 
 pas grand chose à faire. S'il y aurait plus d'information sur l'intention, je crois que les gens 
 essayeront au moins de voir si l'effet est présent et vont plus avoir un avis sur l'expérience.
 #### Références
